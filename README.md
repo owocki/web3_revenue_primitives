@@ -2,6 +2,11 @@
 
 A list of web3 revenue models, created at [ETHMagicians Prague](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring)
 
+# Percentage Fee
+
+This model is where you take a % of each trsanction on your platform.  It is popular with exchanges.
+
+
 # ICOS
 
 TODO -- Fill in some popular ICO models

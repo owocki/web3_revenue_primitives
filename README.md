@@ -27,5 +27,5 @@ TODO -- Fill in some popular ICO models
 
 
 <!-- Google Analytics -->
-<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/pytrader' style='width:1px; height:1px;' >
+<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/web3_revenue_models' style='width:1px; height:1px;' >
 

@@ -59,7 +59,9 @@ TODO - What else should live here?
 
 # What did we miss?  
 
-[Open an issue and let us know](https://github.com/owocki/web3_revenue_primitives/issues/new), or, even better, [open up a PR](https://github.com/owocki/web3_revenue_primitives/compare).
+Coming to Prague this October? [Join us on the business model ring at ETHMagicians 2018](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring)
+
+Remote? [Open an issue and let us know](https://github.com/owocki/web3_revenue_primitives/issues/new), or, even better, [open up a PR](https://github.com/owocki/web3_revenue_primitives/compare).
 
 <!-- Google Analytics -->
 <img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/web3_revenue_primitives' style='width:1px; height:1px;' >

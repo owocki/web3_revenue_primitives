@@ -4,7 +4,7 @@
 
 Core primitives are a set of concepts that are innately understood but cannot be expressed in simpler terms.
 
-This repository is an attempt at list of web3 revenue primitives, created at [ETHMagicians Prague](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring)
+This repository is an attempt at list of web3 revenue primitives, created at [ETHMagicians Prague 2018 by the business models ring](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring).
 
 ## TOC
 
@@ -12,9 +12,9 @@ This repository is an attempt at list of web3 revenue primitives, created at [ET
   * [Marketplace Percentage Fee](#marketplace-percentage-fee)
   * [ICOS](#icos)
   * [Continous Funding Models](#continous-funding-models)
-  * [Questionable / Possible Ponzi Schemes](#questionable---possible-ponzi-schemes)
   * [Streaming Money](#streaming-money)
   * [Subscriptions](#subscriptions)
+  * [Questionable / Possible Ponzi Schemes](#questionable---possible-ponzi-schemes)
 - [What did we miss?](#what-did-we-miss-)
 
 
@@ -24,25 +24,37 @@ This model is where you take a % of each trsanction on your platform.  It is pop
 
 ## ICOS
 
+Sell a bunch of ERC20 tokens at once, or during a window of time.
+
 TODO -- Fill in some popular ICO models
 
+TODO -- Fill in subcategories: security token, utility token, etc.
+
 ## Continous Funding Models
+
+Sell a bunch of ERC20 tokens *over time*.
 
 * [Continuous Organizations](https://medium.com/@thibauld/introducing-continuous-organizations-22ad9d1f63b7?_branch_match_id=578515516036471346)
 * [Curved Bonding](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
 
-## Questionable / Possible Ponzi Schemes
-
-* Fomo3d
-
 ## Streaming Money
 
-* Spankchain
+TODO: Add some information about State Channels.
+
+* [Spankchain](https://spankchain.com/)
 
 ## Subscriptions
 
+Subscriptions are a recurring exchange of value over time.
+
 * [EIP 1337](https://github.com/ethereum/EIPs/pull/1337)
 * [1337 Alliance](https://1337alliance.com)
+
+## Questionable / Possible Ponzi Schemes
+
+TODO - What else should live here? 
+
+* [Fomo3d](https://medium.com/@eetusro/i-note-this-is-fin-e-6646f4a1e55b)
 
 
 # What did we miss?  

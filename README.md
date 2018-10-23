@@ -71,6 +71,9 @@ TODO - What else should live here?
 
 * [Fomo3d](https://medium.com/@eetusro/i-note-this-is-fin-e-6646f4a1e55b)
 
+### Rent
+
+* [Determining a fair rent model of ENS](https://discuss.ens.domains/t/determining-a-fair-rent-model/603) = NOTE: At ENS, the purpose of the rent is to avoid squatters rather than making profit
 
 # What did we miss?  
 

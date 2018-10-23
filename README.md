@@ -43,6 +43,15 @@ TODO: Add some information about State Channels.
 
 * [Spankchain](https://spankchain.com/)
 
+## Non Fungible Tokens
+
+Non fungible tokens are tokens that are unique from one another
+
+Famous NFT projects:
+
+* [CryptoKitties](https://medium.com/@codetractio/a-look-into-cryptokitties-revenue-model-6466b705a998)
+* [OpenSea NFT marketplace](http://opensea.io)
+
 ## Subscriptions
 
 Subscriptions are a recurring exchange of value over time.

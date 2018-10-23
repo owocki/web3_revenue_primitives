@@ -26,7 +26,13 @@ This model is where you take a % of each trsanction on your platform.  It is pop
 
 Sell a bunch of ERC20 tokens at once, or during a window of time.
 
-TODO -- Fill in some popular ICO models
+Some popular ICO models:
+
+* [Security Token Offerings](https://blockgeeks.com/guides/security-tokens/)
+* [Interactive ICO](https://medium.com/legal-block/interactive-coin-offering-a-token-distribution-alternative-model-or-the-new-face-of-the-ipos-61eee71e75ef)
+* [Initial Supply Auction](https://medium.com/@MetronomeToken/metronomes-initial-supply-auction-quick-glance-price-chart-c9132595871e)
+* [Simple Agreement for Future Tokens](https://medium.com/@argongroup/explaining-the-simple-agreement-for-future-tokens-framework-15d5e7543323)
+* [Cryptocurrency Airdrop](https://en.wikipedia.org/wiki/Airdrop_(cryptocurrency))
 
 TODO -- Fill in subcategories: security token, utility token, etc.
 

@@ -34,7 +34,13 @@ Some popular ICO models:
 * [Simple Agreement for Future Tokens](https://medium.com/@argongroup/explaining-the-simple-agreement-for-future-tokens-framework-15d5e7543323)
 * [Cryptocurrency Airdrop](https://en.wikipedia.org/wiki/Airdrop_(cryptocurrency))
 
-TODO -- Fill in subcategories: security token, utility token, etc.
+Types of tokens:
+
+* [Utility Token](https://medium.com/coinmonks/utility-tokens-a-general-understanding-f6a5f9699cc0)
+* [Equity/Security Token](https://blockgeeks.com/guides/security-tokens/)
+* [Currency Token](https://cryptocurrencyfacts.com/what-is-a-cryptocurrency-token/)
+* [Reward Token](https://bitcoinexchangeguide.com/rewards-token-ico/)
+* [Asset Token](https://medium.com/pecunio/the-rise-of-asset-backed-tokens-90570438261c)
 
 ## Continous Funding Models
 

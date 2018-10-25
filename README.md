@@ -20,7 +20,7 @@ This repository is an attempt at list of *web3 revenue primitives*, created by, 
 
 ## Marketplace Percentage Fee
 
-This model is where you take a % of each trsanction on your platform.  It is popular with exchanges.
+This model is where you take a % of each transaction on your platform. It is popular with exchanges.
 
 ## ICOS
 

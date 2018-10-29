@@ -4,7 +4,7 @@
 
 *Core primitives* are a set of concepts that are innately understood but cannot be expressed in simpler terms.
 
-This repository is an attempt at list of *web3 revenue primitives*, created by, for, and at [ETHMagicians Prague 2018 by the business models ring](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring).
+This repository is an attempt at list of *web3 revenue primitives*, created by, for, and at [ETHMagicians Prague 2018 by the business models ring](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring). [Notes from our first session, convened on 2018/10/29 are here](https://hackmd.io/W11KX6Y9R3idXXhN2tHFzA)
 
 ## TOC
 

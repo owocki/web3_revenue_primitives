@@ -53,9 +53,17 @@ Sell a bunch of ERC20 tokens *over time*.
 
 ## Streaming Money
 
-TODO: Add some information about State Channels.
+### Plasma:
+ Plasma is a proposed framework for incentivized and enforced execution of smart contracts which is scalable to a significant amount of state updates per second (potentially billions) enabling the blockchain to be able to represent a significant amount of decentralized financial applications worldwide. These smart contracts are incentivized to continue operation autonomously via network transaction fees, which is ultimately reliant upon the underlying blockchain. Some, know projects are:
+ * [Truebit](https://truebit.io/)
+ * [Plasma](http://plasma.io/plasma.pdf)
+ 
+### State Channels:
+State channels are basically two-way pathways opened between two users that want to communicate with each other in the form of transactions. Here, only the final outcome needs to be included in the form of one single transaction on main chain. Other transaction's are done on off chain. Few know projects around it are:
 
 * [Spankchain](https://spankchain.com/)
+* [Connext](https://connext.network/)
+* [Counterfactual](https://counterfactual.com/)
 
 ## Non Fungible Tokens
 

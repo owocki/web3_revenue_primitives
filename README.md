@@ -53,14 +53,25 @@ Sell a bunch of ERC20 tokens *over time*.
 
 ## Streaming Money
 
-### Plasma:
- Plasma is a proposed framework for incentivized and enforced execution of smart contracts which is scalable to a significant amount of state updates per second (potentially billions) enabling the blockchain to be able to represent a significant amount of decentralized financial applications worldwide. These smart contracts are incentivized to continue operation autonomously via network transaction fees, which is ultimately reliant upon the underlying blockchain. Some, know projects are:
- * [Truebit](https://truebit.io/)
- * [Plasma](http://plasma.io/plasma.pdf)
+### Side Channels:
+A sidechain is a separate blockchain that is attached to its parent blockchain(mainchain) using a two-way peg. You can move assets to the sidechain and then back to the parent chain.
+Sidechains need their own miners. These miners can be incentivized through ‘merged mining’, whereby two separate cryptocurrencies, based on the same algorithm, are mined simultaneously.
+Here is a list of some of the Sidechain Projects:
+
+* [Plasma](http://plasma.io/)
+* [Loom](https://loomx.io/)
+* [POA](https://poa.network/)
+* [Truebit](https://truebit.io/)
  
 ### State Channels:
 State channels are basically two-way pathways opened between two users that want to communicate with each other in the form of transactions. Here, only the final outcome needs to be included in the form of one single transaction on main chain. Other transaction's are done on off chain. Few know projects around it are:
 
+* [Raiden Network](https://raiden.network/)
+* [Machinomy](https://machinomy.com/)
+* [FunFair](https://funfair.io/)
+* [Liquidity](https://liquidity.network/)
+* [Trinity](https://trinity.tech/#/)
+* [Celer](https://www.celer.network/)
 * [Spankchain](https://spankchain.com/)
 * [Connext](https://connext.network/)
 * [Counterfactual](https://counterfactual.com/)

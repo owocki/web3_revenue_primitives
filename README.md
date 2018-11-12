@@ -16,6 +16,9 @@ This repository is an attempt at list of *web3 revenue primitives*, created by, 
   * [Continous Funding Models](#continous-funding-models)
   * [Streaming Money](#streaming-money)
   * [Subscriptions](#subscriptions)
+  * [Lending](#lending)
+  * [Curating](#curating)
+  * [Creating](#creating)
   * [Questionable / Possible Ponzi Schemes](#questionable---possible-ponzi-schemes)
 - [What did we miss?](#what-did-we-miss-)
 
@@ -98,6 +101,28 @@ Subscriptions are a recurring exchange of value over time.
 
 * [EIP 1337](https://github.com/ethereum/EIPs/pull/1337)
 * [1337 Alliance](https://1337alliance.com)
+
+## Lending
+
+Smart contracts that control credit scores, loan issuance, and interest payments will run on top of protocols like Ethereum. These debt contracts will be hashed into existence and generate hashflow for the lenders. This is a flow of hashflow above the base layer protocol.
+
+* [Dharma Protocol](https://dharma.io/)
+* [LoanScan](https://loanscan.io/)
+
+## Curating
+
+The job of a search engine like Google is to collect and curate data from the Internet. This is one of the most valuable curation projects in the world. The key with curation markets is to get all of the incentives aligned so that you can trust the underlying data. The term used in the industry is the Token Curated Registry. 
+It’s not just about creating a list. It’s about creating a list you can trust by incentivising curators to do the research for you.
+
+* [Ocean Protocol](https://oceanprotocol.com/)
+* [Messari](https://messari.io/)
+
+## Creating
+
+The creation of new things on chains will have value. Selling them to people who want them will generate hashflow. Making these unique tokens takes a lot of effort. You have to get a community of people to agree to their value.
+
+* [Cryptokitties](https://www.cryptokitties.co/)
+
 
 ## Questionable / Possible Ponzi Schemes
 

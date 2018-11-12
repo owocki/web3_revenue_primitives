@@ -36,6 +36,13 @@ Some popular ICO models:
 * [Simple Agreement for Future Tokens](https://medium.com/@argongroup/explaining-the-simple-agreement-for-future-tokens-framework-15d5e7543323)
 * [Cryptocurrency Airdrop](https://en.wikipedia.org/wiki/Airdrop_(cryptocurrency))
 
+Some popular ICOs:
+
+* [Neo(China's Ethereum)](https://www.investinblockchain.com/what-is-neo/)
+* [Stratis](https://www.investinblockchain.com/invest-in-stratis/)
+* [Ark](https://www.investinblockchain.com/what-is-ark/)
+* [Populous](https://www.investinblockchain.com/what-is-populous/)
+
 Types of tokens:
 
 * [Utility Token](https://medium.com/coinmonks/utility-tokens-a-general-understanding-f6a5f9699cc0)

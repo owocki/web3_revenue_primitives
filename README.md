@@ -16,6 +16,9 @@ This repository is an attempt at list of *web3 revenue primitives*, created by, 
   * [Continous Funding Models](#continous-funding-models)
   * [Streaming Money](#streaming-money)
   * [Subscriptions](#subscriptions)
+  * [Lending](#lending)
+  * [Curating](#curating)
+  * [Creating](#creating)
   * [Questionable / Possible Ponzi Schemes](#questionable---possible-ponzi-schemes)
 - [What did we miss?](#what-did-we-miss-)
 
@@ -36,6 +39,13 @@ Some popular ICO models:
 * [Simple Agreement for Future Tokens](https://medium.com/@argongroup/explaining-the-simple-agreement-for-future-tokens-framework-15d5e7543323)
 * [Cryptocurrency Airdrop](https://en.wikipedia.org/wiki/Airdrop_(cryptocurrency))
 
+Some popular ICOs:
+
+* [Neo(China's Ethereum)](https://www.investinblockchain.com/what-is-neo/)
+* [Stratis](https://www.investinblockchain.com/invest-in-stratis/)
+* [Ark](https://www.investinblockchain.com/what-is-ark/)
+* [Populous](https://www.investinblockchain.com/what-is-populous/)
+
 Types of tokens:
 
 * [Utility Token](https://medium.com/coinmonks/utility-tokens-a-general-understanding-f6a5f9699cc0)
@@ -53,14 +63,25 @@ Sell a bunch of ERC20 tokens *over time*.
 
 ## Streaming Money
 
-### Plasma:
- Plasma is a proposed framework for incentivized and enforced execution of smart contracts which is scalable to a significant amount of state updates per second (potentially billions) enabling the blockchain to be able to represent a significant amount of decentralized financial applications worldwide. These smart contracts are incentivized to continue operation autonomously via network transaction fees, which is ultimately reliant upon the underlying blockchain. Some, know projects are:
- * [Truebit](https://truebit.io/)
- * [Plasma](http://plasma.io/plasma.pdf)
+### Side Channels:
+A sidechain is a separate blockchain that is attached to its parent blockchain(mainchain) using a two-way peg. You can move assets to the sidechain and then back to the parent chain.
+Sidechains need their own miners. These miners can be incentivized through ‘merged mining’, whereby two separate cryptocurrencies, based on the same algorithm, are mined simultaneously.
+Here is a list of some of the Sidechain Projects:
+
+* [Plasma](http://plasma.io/)
+* [Loom](https://loomx.io/)
+* [POA](https://poa.network/)
+* [Truebit](https://truebit.io/)
  
 ### State Channels:
 State channels are basically two-way pathways opened between two users that want to communicate with each other in the form of transactions. Here, only the final outcome needs to be included in the form of one single transaction on main chain. Other transaction's are done on off chain. Few know projects around it are:
 
+* [Raiden Network](https://raiden.network/)
+* [Machinomy](https://machinomy.com/)
+* [FunFair](https://funfair.io/)
+* [Liquidity](https://liquidity.network/)
+* [Trinity](https://trinity.tech/#/)
+* [Celer](https://www.celer.network/)
 * [Spankchain](https://spankchain.com/)
 * [Connext](https://connext.network/)
 * [Counterfactual](https://counterfactual.com/)
@@ -80,6 +101,28 @@ Subscriptions are a recurring exchange of value over time.
 
 * [EIP 1337](https://github.com/ethereum/EIPs/pull/1337)
 * [1337 Alliance](https://1337alliance.com)
+
+## Lending
+
+Smart contracts that control credit scores, loan issuance, and interest payments will run on top of protocols like Ethereum. These debt contracts will be hashed into existence and generate hashflow for the lenders. This is a flow of hashflow above the base layer protocol.
+
+* [Dharma Protocol](https://dharma.io/)
+* [LoanScan](https://loanscan.io/)
+
+## Curating
+
+The job of a search engine like Google is to collect and curate data from the Internet. This is one of the most valuable curation projects in the world. The key with curation markets is to get all of the incentives aligned so that you can trust the underlying data. The term used in the industry is the Token Curated Registry. 
+It’s not just about creating a list. It’s about creating a list you can trust by incentivising curators to do the research for you.
+
+* [Ocean Protocol](https://oceanprotocol.com/)
+* [Messari](https://messari.io/)
+
+## Creating
+
+The creation of new things on chains will have value. Selling them to people who want them will generate hashflow. Making these unique tokens takes a lot of effort. You have to get a community of people to agree to their value.
+
+* [Cryptokitties](https://www.cryptokitties.co/)
+
 
 ## Questionable / Possible Ponzi Schemes
 

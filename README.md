@@ -102,6 +102,22 @@ Subscriptions are a recurring exchange of value over time.
 * [EIP 1337](https://github.com/ethereum/EIPs/pull/1337)
 * [1337 Alliance](https://1337alliance.com)
 
+## Self-Sovereign Identity
+
+Identity Standards Proposals:
+* [EIP 725](https://github.com/ethereum/EIPs/issues/725)
+* [EIP 725 Alliance](https://erc725alliance.org/)
+* [EIP 1056](https://github.com/ethereum/EIPs/issues/1056) and [ERC 780](https://github.com/ethereum/EIPs/issues/780)
+* [Identity Foundation](https://identity.foundation/)
+* [Decentralized Identifiers (DID)](https://w3c-ccg.github.io/did-spec/)
+
+Projects in the Identity space:
+* [uPort](https://uport.me)
+* [Civic](https://www.civic.com/)
+* [BloomID](https://bloom.co/identity/)
+* [TENZ-ID](https://tenzorum.org/tenz_id/)
+* [Ethereum Name Service](https://ens.domains)
+
 ## Lending
 
 Smart contracts that control credit scores, loan issuance, and interest payments will run on top of protocols like Ethereum. These debt contracts will be hashed into existence and generate hashflow for the lenders. This is a flow of hashflow above the base layer protocol.

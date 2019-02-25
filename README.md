@@ -139,6 +139,12 @@ The creation of new things on chains will have value. Selling them to people who
 
 * [Cryptokitties](https://www.cryptokitties.co/)
 
+## Advertising
+
+There are some options for doing advertising-based business models for open source projects, listed below.
+
+* [CodeFund](http://codefund.app)
+
 
 ## Questionable / Possible Ponzi Schemes
 

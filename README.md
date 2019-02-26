@@ -4,7 +4,7 @@
 
 *Core primitives* are a set of concepts that are innately understood but cannot be expressed in simpler terms.
 
-This repository is an attempt at list of *web3 revenue primitives*, created by, for, and at [ETHMagicians Prague 2018 by the business models ring](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring). 
+This repository is an attempt at list of *web3 revenue primitives*, created by, for, and at [ETHMagicians Prague 2018 by the business models ring](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring).
 
 [Notes from Business Models Ring at Eth Magicians, the first session which convened on 2018/10/29, are here](https://hackmd.io/W11KX6Y9R3idXXhN2tHFzA).
 
@@ -72,7 +72,7 @@ Here is a list of some of the Sidechain Projects:
 * [Loom](https://loomx.io/)
 * [POA](https://poa.network/)
 * [Truebit](https://truebit.io/)
- 
+
 ### State Channels:
 State channels are basically two-way pathways opened between two users that want to communicate with each other in the form of transactions. Here, only the final outcome needs to be included in the form of one single transaction on main chain. Other transaction's are done on off chain. Few know projects around it are:
 
@@ -127,7 +127,7 @@ Smart contracts that control credit scores, loan issuance, and interest payments
 
 ## Curating
 
-The job of a search engine like Google is to collect and curate data from the Internet. This is one of the most valuable curation projects in the world. The key with curation markets is to get all of the incentives aligned so that you can trust the underlying data. The term used in the industry is the Token Curated Registry. 
+The job of a search engine like Google is to collect and curate data from the Internet. This is one of the most valuable curation projects in the world. The key with curation markets is to get all of the incentives aligned so that you can trust the underlying data. The term used in the industry is the Token Curated Registry.
 It’s not just about creating a list. It’s about creating a list you can trust by incentivising curators to do the research for you.
 
 * [Ocean Protocol](https://oceanprotocol.com/)
@@ -148,13 +148,121 @@ There are some options for doing advertising-based business models for open sour
 
 ## Questionable / Possible Ponzi Schemes
 
-TODO - What else should live here? 
+TODO - What else should live here?
 
 * [Fomo3d](https://medium.com/@eetusro/i-note-this-is-fin-e-6646f4a1e55b)
 
 ### Rent
 
 * [Determining a fair rent model of ENS](https://discuss.ens.domains/t/determining-a-fair-rent-model/603) = NOTE: At ENS, the purpose of the rent is to avoid squatters rather than making profit
+
+# Revenue Models
+##### The system designed by which a business monitizes its services
+---
+*"The ideal revenue model will be one that improves the user experience, or at least in no way harms it."*
+
+| Model     |                                      Description                                      | Examples |
+|:------------------------:|-------------------------------------------------------------------------------------|:----------:|
+| Advertising            |       Service is free to use, marketers pay to reach your users via advertising       | Search Ads - Google |
+| Commerce               |             Sell something to your users, keep some or all of the proceeds            | examples |
+| Subscription           |     Charge your users monthly or annually for the opportunity to use your service     | examples |
+| Freemium          |     Sell a basic free product to as many customers as possible, but keep the premium features exclusively for paying customers     | Dropbox |
+| Peer to Peer           |  Connect people together in a network, take a small piece of the activity that ensues | examples |
+| Transaction Processing |      Settle transactions, then take a small piece of the transaction for doing so     | examples |
+| Licensing              |          Charge users once upfront for the opportunity to use your technology         | examples |
+| Data                   |                          Sell the data your service generates                         | examples |
+| Mobile                 | Not a revenue model but presents unique challenges and opportunities for monetization | examples |
+| Gaming                 | Not a revenue model but presents unique challenges and opportunities for monetization | examples |
+
+###### These categories are not mutually exclusive. Many web/mobile services use multiple revenue models. Freemium for example is a combination of advertising & subscription.
+---
+## Examples
+---
+
+#### Advertising
+* Search Ads - [Google](https://google.com)
+* Video Ads - [Youtube](https://youtube.com)
+* Location-based Ads - [Foursquare](https://foursquare.com)
+
+#### Commerce
+* Group buying - Groupon
+* Digital goods/downloads - Itunes
+* Auction commerce - Ebay
+
+#### Subscription
+* Software as a Service (SaaS) - FreshDesk
+*
+
+#### Freemium
+* Dropbox
+<img src='imgs/dropbox.jpg'>
+* Adobe
+* LinkedIn
+
+# Web2 Revenue Models
+##### The system designed by which a business monitizes its services
+---
+*"The ideal revenue model will be one that improves the user experience, or at least in no way harms it."*
+
+| Model     |                                      Description                                      | Examples |
+|:------------------------:|-------------------------------------------------------------------------------------|:----------:|
+| Advertising            |       Service is free to use, marketers pay to reach your users via advertising       | [examples](#advertising) |
+| Commerce               |             Sell something to your users, keep some or all of the proceeds            | [examples](#commerce) |
+| Subscription           |     Charge your users monthly or annually for the opportunity to use your service     | [examples](#subscription) |
+| Freemium          |     Sell a basic free product to as many customers as possible, but keep the premium features exclusively for paying customers     | [examples](#freemium) |
+| Peer to Peer           |  Connect people together in a network, take a small piece of the activity that ensues | [examples](#peer-to-peer) |
+| Transaction Processing |      Settle transactions, then take a small piece of the transaction for doing so     | [examples](#transaction-processing) |
+| Licensing              |          Charge users once upfront for the opportunity to use your technology         | [examples](#licensing) |
+| Data                   |                          Sell the data your service generates                         | [examples](####data) |
+| Mobile                 | Not a revenue model but presents unique challenges and opportunities for monetization | [itunes app store](https://itunes.apple.com/us/genre/ios/id36?mt=8) |
+| Gaming                 | Not a revenue model but presents unique challenges and opportunities for monetization | [steam](https://store.steampowered.com) |
+
+###### These categories are not mutually exclusive. Many web/mobile services use multiple revenue models. Freemium for example is a combination of advertising & subscription.
+---
+## Examples
+---
+
+#### Advertising
+* Search Ads - [Google](https://google.com)
+* Video Ads - [Youtube](https://youtube.com)
+* Location-based Ads - [Foursquare](https://foursquare.com)
+
+#### Commerce
+* Group buying - [Groupon](https://groupon.com)
+* Digital goods/downloads - [Itunes](https://itunes.com)
+* Auction commerce - [Ebay](https://ebay.com)
+
+#### Subscription
+* Software as a Service (SaaS) - [FreshDesk](https://freshdesk.com)
+* Infrastructure as a Service (IaaS) - [AWS](https://aws.amazon.com/)
+* Membership services - [Amazon Prime](https://www.amazon.com/gp/prime
+)
+
+#### Freemium
+* [Dropbox](https://dropbox.com)
+<img src='imgs/dropbox.jpg'>
+* [Adobe](https://adobe.com)
+* [LinkedIn](https://linkedin.com)
+
+#### Peer to Peer
+* [Airbnb](https://airbnb.com)
+* [Uber](https://uber.com)
+* [Match.com](https://match.com)
+
+#### Transaction Processing
+* [Paypal](https://paypal.com)
+* [Stripe](https://stripe.com)
+* [Google Pay](https://pay.google.com/)
+
+#### Licensing
+* Per Device/Server License – [Microsoft products](https://microsoft.com)
+* Per Application instance – [Adobe Photoshop](https://adobe.com)
+* Patent Licensing – [Qualcomm](https://qualcomm.com)
+
+#### Data
+* User data - [LinkedIn](https://linkedin.com)
+* Search data - [Google](https://google.com)
+* Benchmarking services – [Comscore](https://comscore.com)
 
 # What did we miss?  
 
@@ -164,4 +272,3 @@ Remote? [Open an issue and let us know](https://github.com/owocki/web3_revenue_p
 
 <!-- Google Analytics -->
 <img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/web3_revenue_primitives' style='width:1px; height:1px;' >
-

@@ -156,49 +156,6 @@ TODO - What else should live here?
 
 * [Determining a fair rent model of ENS](https://discuss.ens.domains/t/determining-a-fair-rent-model/603) = NOTE: At ENS, the purpose of the rent is to avoid squatters rather than making profit
 
-# Revenue Models
-##### The system designed by which a business monitizes its services
----
-*"The ideal revenue model will be one that improves the user experience, or at least in no way harms it."*
-
-| Model     |                                      Description                                      | Examples |
-|:------------------------:|-------------------------------------------------------------------------------------|:----------:|
-| Advertising            |       Service is free to use, marketers pay to reach your users via advertising       | Search Ads - Google |
-| Commerce               |             Sell something to your users, keep some or all of the proceeds            | examples |
-| Subscription           |     Charge your users monthly or annually for the opportunity to use your service     | examples |
-| Freemium          |     Sell a basic free product to as many customers as possible, but keep the premium features exclusively for paying customers     | Dropbox |
-| Peer to Peer           |  Connect people together in a network, take a small piece of the activity that ensues | examples |
-| Transaction Processing |      Settle transactions, then take a small piece of the transaction for doing so     | examples |
-| Licensing              |          Charge users once upfront for the opportunity to use your technology         | examples |
-| Data                   |                          Sell the data your service generates                         | examples |
-| Mobile                 | Not a revenue model but presents unique challenges and opportunities for monetization | examples |
-| Gaming                 | Not a revenue model but presents unique challenges and opportunities for monetization | examples |
-
-###### These categories are not mutually exclusive. Many web/mobile services use multiple revenue models. Freemium for example is a combination of advertising & subscription.
----
-## Examples
----
-
-#### Advertising
-* Search Ads - [Google](https://google.com)
-* Video Ads - [Youtube](https://youtube.com)
-* Location-based Ads - [Foursquare](https://foursquare.com)
-
-#### Commerce
-* Group buying - Groupon
-* Digital goods/downloads - Itunes
-* Auction commerce - Ebay
-
-#### Subscription
-* Software as a Service (SaaS) - FreshDesk
-*
-
-#### Freemium
-* Dropbox
-<img src='imgs/dropbox.jpg'>
-* Adobe
-* LinkedIn
-
 # Web2 Revenue Models
 ##### The system designed by which a business monitizes its services
 ---

@@ -20,6 +20,7 @@ This repository is an attempt at list of *web3 revenue primitives*, created by, 
   * [Curating](#curating)
   * [Creating](#creating)
   * [Questionable / Possible Ponzi Schemes](#questionable---possible-ponzi-schemes)
+- [Web 2 Revenue Models](#web2-revenue-models)
 - [What did we miss?](#what-did-we-miss-)
 
 
@@ -177,7 +178,6 @@ TODO - What else should live here?
 ###### These categories are not mutually exclusive. Many web/mobile services use multiple revenue models. Freemium for example is a combination of advertising & subscription.
 ---
 ## Examples
----
 
 #### Advertising Model
 * Search Ads - [Google](https://google.com)

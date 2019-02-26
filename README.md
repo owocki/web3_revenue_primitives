@@ -19,6 +19,7 @@ This repository is an attempt at list of *web3 revenue primitives*, created by, 
   * [Lending](#lending)
   * [Curating](#curating)
   * [Creating](#creating)
+  * [Funding](#funding)
   * [Questionable / Possible Ponzi Schemes](#questionable---possible-ponzi-schemes)
 - [What did we miss?](#what-did-we-miss-)
 
@@ -138,6 +139,12 @@ It’s not just about creating a list. It’s about creating a list you can trus
 The creation of new things on chains will have value. Selling them to people who want them will generate hashflow. Making these unique tokens takes a lot of effort. You have to get a community of people to agree to their value.
 
 * [Cryptokitties](https://www.cryptokitties.co/)
+
+## Funding
+
+Grants are the main source of funding for projects in the Ethereum Community. Grants give a short time horizon for projects and don’t take into consideration the setup costs. Once a project has been set up, maintenance requires longer-term funding than grants provide. A business model of services must be considered on a project to project basis to find long term support. There is no one entity in charge of Ethereum, so the community must look at different funding bodies and revenue streams. Obtaining multiple entities to fund a project is part of the shared ecosystem of Ethereum.
+
+* [Funding Taxonomy](https://ethereum-magicians.org/t/funding-taxonomy-issues-for-ethereum-ecosystem/2014)
 
 ## Advertising
 

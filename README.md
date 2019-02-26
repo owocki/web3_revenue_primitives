@@ -163,14 +163,14 @@ TODO - What else should live here?
 
 | Model     |                                      Description                                      | Examples |
 |:------------------------:|-------------------------------------------------------------------------------------|:----------:|
-| Advertising            |       Service is free to use, marketers pay to reach your users via advertising       | [examples](#advertising) |
-| Commerce               |             Sell something to your users, keep some or all of the proceeds            | [examples](#commerce) |
-| Subscription           |     Charge your users monthly or annually for the opportunity to use your service     | [examples](#subscription) |
-| Freemium          |     Sell a basic free product to as many customers as possible, but keep the premium features exclusively for paying customers     | [examples](#freemium) |
-| Peer to Peer           |  Connect people together in a network, take a small piece of the activity that ensues | [examples](#peer-to-peer) |
-| Transaction Processing |      Settle transactions, then take a small piece of the transaction for doing so     | [examples](#transaction-processing) |
-| Licensing              |          Charge users once upfront for the opportunity to use your technology         | [examples](#licensing) |
-| Data                   |                          Sell the data your service generates                         | [examples](####data) |
+| Advertising            |       Service is free to use, marketers pay to reach your users via advertising       | [examples](#advertising-model) |
+| Commerce               |             Sell something to your users, keep some or all of the proceeds            | [examples](#commerce-model) |
+| Subscription           |     Charge your users monthly or annually for the opportunity to use your service     | [examples](#subscription-model) |
+| Freemium          |     Sell a basic free product to as many customers as possible, but keep the premium features exclusively for paying customers     | [examples](#freemium-model) |
+| Peer to Peer           |  Connect people together in a network, take a small piece of the activity that ensues | [examples](#peer-to-peer-model) |
+| Transaction Processing |      Settle transactions, then take a small piece of the transaction for doing so     | [examples](#transaction-processing-model) |
+| Licensing              |          Charge users once upfront for the opportunity to use your technology         | [examples](#licensing-model) |
+| Data                   |                          Sell the data your service generates                         | [examples](#data-model) |
 | Mobile                 | Not a revenue model but presents unique challenges and opportunities for monetization | [itunes app store](https://itunes.apple.com/us/genre/ios/id36?mt=8) |
 | Gaming                 | Not a revenue model but presents unique challenges and opportunities for monetization | [steam](https://store.steampowered.com) |
 
@@ -179,45 +179,45 @@ TODO - What else should live here?
 ## Examples
 ---
 
-#### Advertising
+#### Advertising Model
 * Search Ads - [Google](https://google.com)
 * Video Ads - [Youtube](https://youtube.com)
 * Location-based Ads - [Foursquare](https://foursquare.com)
 
-#### Commerce
+#### Commerce Model
 * Group buying - [Groupon](https://groupon.com)
 * Digital goods/downloads - [Itunes](https://itunes.com)
 * Auction commerce - [Ebay](https://ebay.com)
 
-#### Subscription
+#### Subscription Model
 * Software as a Service (SaaS) - [FreshDesk](https://freshdesk.com)
 * Infrastructure as a Service (IaaS) - [AWS](https://aws.amazon.com/)
 * Membership services - [Amazon Prime](https://www.amazon.com/gp/prime
 )
 
-#### Freemium
+#### Freemium Model
 * [Dropbox](https://dropbox.com)
 <img src='imgs/dropbox.jpg'>
 
 * [Adobe](https://adobe.com)
 * [LinkedIn](https://linkedin.com)
 
-#### Peer to Peer
+#### Peer to Peer Model
 * [Airbnb](https://airbnb.com)
 * [Uber](https://uber.com)
 * [Match.com](https://match.com)
 
-#### Transaction Processing
+#### Transaction Processing Model
 * [Paypal](https://paypal.com)
 * [Stripe](https://stripe.com)
 * [Google Pay](https://pay.google.com/)
 
-#### Licensing
+#### Licensing Model
 * Per Device/Server License – [Microsoft products](https://microsoft.com)
 * Per Application instance – [Adobe Photoshop](https://adobe.com)
 * Patent Licensing – [Qualcomm](https://qualcomm.com)
 
-#### Data
+#### Data Model
 * User data - [LinkedIn](https://linkedin.com)
 * Search data - [Google](https://google.com)
 * Benchmarking services – [Comscore](https://comscore.com)

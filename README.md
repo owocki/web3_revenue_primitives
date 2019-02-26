@@ -145,6 +145,17 @@ There are some options for doing advertising-based business models for open sour
 
 * [CodeFund](http://codefund.app)
 
+## Personal Tokens
+Personal tokens are fixed-supply and -cost ERC20 tokens that derive their value from the performance of a human being. They are commonly used to tokenize either individual service offerings or a fixed-price hourly service.
+
+* [DAppBoi](https://dappboi.com/)
+
+  DAppBoi is an example of a personal token which tokenizes an hour of digital design work by designer Matthew Vernon. By initiating the ERC20 token with a fixed supply of 100 $BOI tokens, purchasable directly from Matthew for 0.65ETH each, this personal token allows an individual to effectively purchase, trade, and invest in Matthew's design skillset.
+
+  The tokens are redeemed by sending them to Matthew, who in exchange for 1 $BOI token provides 1 hour of design work. By using a personal token, not only can Matthew create demand for his skillset through a  fixed token supply, but he can also ensure that he will receive a minimum of 0.65ETH for each hour he works, since he is the primary supplier of the token and hence, regulates its price. In addition, using a personal token  ensures that even if the market price for $BOI falls, Matthew will have already been compensated at his pre-determined hourly rate for the tokens in circulation.
+
+  In the case that Matthew denies service to an individual who redeems $BOI, although the market valuation for the token may fall, Matthew has already been paid in advance for the initial purchase, thus, fulfilling his hourly rate.
+
 
 ## Questionable / Possible Ponzi Schemes
 

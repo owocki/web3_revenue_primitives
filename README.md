@@ -142,9 +142,14 @@ The creation of new things on chains will have value. Selling them to people who
 
 ## Funding
 
-Grants are the main source of funding for projects in the Ethereum Community. Grants give a short time horizon for projects and don’t take into consideration the setup costs. Once a project has been set up, maintenance requires longer-term funding than grants provide. A business model of services must be considered on a project to project basis to find long term support. There is no one entity in charge of Ethereum, so the community must look at different funding bodies and revenue streams. Obtaining multiple entities to fund a project is part of the shared ecosystem of Ethereum.
+Funding is the same whether it is at the ecosystem level or at the level of a single entity wanting to support funding. Grants are the main source of funding for projects in the Ethereum Community. Grants give a short time horizon for projects and don’t take into consideration the setup costs. Once a project has been set up, maintenance requires longer-term funding than grants provided. In many cases for an individual or small team, a business model of services can be considered on a project to project basis to find long term support. Operational costs hit projects with real-world budget and cash flow problems, and decentralized projects excel when they gather together for support. 
+
+There is no one entity in charge of Ethereum, so the community must look at different funding bodies and revenue streams. For decentralized projects, it is a good idea to have different funding for different aspects of the ecosystem, such as stack, research, or community.  Obtaining multiple entities to fund a project is part of the shared ecosystem of Ethereum. Multiple entities of funding stop the community from defunding project Y, and instead disperse funding to both project X and Y. To get funding and sustainability of a project, it is best to collaborate with others who want to support the infrastructure, rather than waste time on putting together grant systems.
 
 * [Funding Taxonomy](https://ethereum-magicians.org/t/funding-taxonomy-issues-for-ethereum-ecosystem/2014)
+* [Funding Opportunities](https://github.com/fredexed/crypto-funding-ops)
+* [Web3 Grants](https://hackmd.io/z5zFMTjiRJqs-4Wm43bJtQ)
+* 
 
 ## Advertising
 

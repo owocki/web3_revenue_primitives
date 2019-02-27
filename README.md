@@ -149,7 +149,6 @@ There is no one entity in charge of Ethereum, so the community must look at diff
 * [Funding Taxonomy](https://ethereum-magicians.org/t/funding-taxonomy-issues-for-ethereum-ecosystem/2014)
 * [Funding Opportunities](https://github.com/fredexed/crypto-funding-ops)
 * [Web3 Grants](https://hackmd.io/z5zFMTjiRJqs-4Wm43bJtQ)
-* 
 
 ## Advertising
 

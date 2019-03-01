@@ -151,6 +151,25 @@ There is no one entity in charge of Ethereum, so the community must look at diff
 * [Funding Opportunities](https://github.com/fredexed/crypto-funding-ops)
 * [Web3 Grants](https://hackmd.io/z5zFMTjiRJqs-4Wm43bJtQ)
 
+### Budgeting
+Closely associated to funding, budgeting and appropriating long-term cashflow is essential for the success of Ethereum projects, teams, and individuals. With an increasing focus on long-term sustainability, it is essential to outline a fundamental budget to track funds and plan for the foreseeable future. The [Open Source Budget](https://docs.google.com/spreadsheets/d/1CqaIu4ZupDWU0IedRXQw2coJptUhhyyMTu7ep6nNmIU/edit#gid=989402327) template by Boris Mann simplifies this concept into a simple, single currency spreadsheet for tracking expenses, basic payroll, and funding sources, in order to provide an outlook into long-term financial stability.
+
+#### Limitations of existing Open Source Budget template:
+  
+  Identified limitations of the Open Source Budget template should be taken into consideration by Ethereum projects, teams, or individuals. These include:
+  
+  * The template assumes zero cost for an office or hardware.
+  * The template does not factor in annual taxation or tax subsidization.
+  * The template provides the "break-even" for a project, ignoring the potential need of a margin, or, buffer.
+
+#### Treasury management:
+
+  With projects being built on Ethereum, treasury management is also essential. Highlighted in a [Twitter thread](https://twitter.com/DeanEigenmann/status/1064723747582619648), it is generally recommended by Boris to keep upwards of six months of expenses for a team as a buffer. In addition, teams and projects should clarify their policies on payroll and payable expenses, to prevent market instability and variance from affecting their budgets (in the case that their budget is primarily in Ethereum or other non-fiat currencies).
+
+#### Additional thoughts:
+
+  With grants being main sources of funding for projects in the Ethereum Community, understanding their impact to long-term security & sustainability is essential. While one-off bounties and small grants may fund for the short-term, projects should look into additional sources of funding to ensure that they: (1) do not have to devote time and value to search for additional short-term funding, and (2) have a sustainable source of funding for their foreseeable project runway.
+
 ## Advertising
 
 There are some options for doing advertising-based business models for open source projects, listed below.

@@ -168,7 +168,7 @@ Personal tokens are fixed-supply and -cost ERC20 tokens that derive their value 
 
   In the case that Matthew denies service to an individual who redeems $BOI, although the market valuation for the token may fall, Matthew has already been paid in advance for the initial purchase, thus, fulfilling his hourly rate.
 
-##Stablecoins Business Models
+## Stablecoins Business Models
 
 The main component behind stablecoins capturing value in a market is seigniorage. This is profit made by issuing currency, which is generated from the difference of the face value of the currency and its production costs. The three major types of stablecoins are:
 
@@ -176,7 +176,7 @@ The main component behind stablecoins capturing value in a market is seigniorage
 * Crypto-backed
 * Algorithmic
 
-###Fiat-Backed
+### Fiat-Backed
 
 A fiat-backed stablecoin system will collateralize every stablecoin issued with fiat currency or some other non-crypto asset. The fiat currency is stored with some custodian, such as a bank or major institution. 
 
@@ -184,7 +184,7 @@ These stable coins can generate revenue from collecting fees on issuing/redeemin
 * [Tether](https://tether.to/)
 * [TrueUSD](https://www.trusttoken.com/trueusd/)
 
-###Crypto-Backed
+### Crypto-Backed
 
 Crypto-backed systems provide decentralized ways to maintain claims on collateral. Reserves of collateral are kept in the form of crypto-assets (such as ETH) on smart contracts. All issued stablecoins are backed by these reserves of ‘volatility coin’ collateral.
 
@@ -193,7 +193,7 @@ In the case of Maker, they issue stablecoins as collateralized debt positions, w
 * [Maker](https://makerdao.com/en/)
 * [Havven](https://www.synthetix.io/)
 
-###Algorithmic
+### Algorithmic
 
 A newer business model, algorithmic stablecoins adjust supply to stabilize price without collateral requirements. These stablecoins may use a volatility coin to capitalize the system at first. This system is very lucrative due to the fact that all supply increases in the stablecoin are distributed to those holding on to the volatility coin.
 

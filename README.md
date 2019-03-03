@@ -1,4 +1,4 @@
-# Web 3 Revenue Primitives
+﻿# Web 3 Revenue Primitives
 
 <img src='imgs/coins.png'>
 
@@ -168,7 +168,38 @@ Personal tokens are fixed-supply and -cost ERC20 tokens that derive their value 
 
   In the case that Matthew denies service to an individual who redeems $BOI, although the market valuation for the token may fall, Matthew has already been paid in advance for the initial purchase, thus, fulfilling his hourly rate.
 
+##Stablecoins Business Models
 
+The main component behind stablecoins capturing value in a market is seigniorage. This is profit made by issuing currency, which is generated from the difference of the face value of the currency and its production costs. The three major types of stablecoins are:
+
+* Fiat-backed
+* Crypto-backed
+* Algorithmic
+
+###Fiat-Backed
+
+A fiat-backed stablecoin system will collateralize every stablecoin issued with fiat currency or some other non-crypto asset. The fiat currency is stored with some custodian, such as a bank or major institution. 
+
+These stable coins can generate revenue from collecting fees on issuing/redeeming stablecoins, market-making, or short-term lending. The most popular fiat stablecoin systems today are:
+* [Tether](https://tether.to/)
+* [TrueUSD](https://www.trusttoken.com/trueusd/)
+
+###Crypto-Backed
+
+Crypto-backed systems provide decentralized ways to maintain claims on collateral. Reserves of collateral are kept in the form of crypto-assets (such as ETH) on smart contracts. All issued stablecoins are backed by these reserves of ‘volatility coin’ collateral.
+
+Crypto-backed stablecoin systems focus more on the volatility coin put up as collateral to generate revenue. These systems can collect transaction fees created on-chain. Holders of the volatility coin are then paid proportionally.
+In the case of Maker, they issue stablecoins as collateralized debt positions, which accumulate interest at an annual rate of 2.5%. The interest is again paid proportionally to those holding on the volatility coin. Other crypto-backed stablecoins have issued shares for collateral assets, which can be redeemed in exchange for stablecoins or another asset. Check out:
+* [Maker](https://makerdao.com/en/)
+* [Havven](https://www.synthetix.io/)
+
+###Algorithmic
+
+A newer business model, algorithmic stablecoins adjust supply to stabilize price without collateral requirements. These stablecoins may use a volatility coin to capitalize the system at first. This system is very lucrative due to the fact that all supply increases in the stablecoin are distributed to those holding on to the volatility coin.
+
+These stablecoin systems can issue shares called seigniorage shares. When there is demand for more stablecoins, more are issued to offset demand and keep price level. If demand decreases and price of stablecoins fall, shares are put up for sale in exchange for stablecoins, which are then burnt from supply. Therefore, if the market cap of stable coins reaches a certain level, the value of all seigniorage shares will be at that same level.
+
+Another revenue-generating tactic are variable interest rate deposits, where users can deposit stablecoins into smart contracts that pay out interest. When demand is low, interest rates are increased to incentivize depositing stablecoins, which lowers the circulating supply of stablecoins and price increases; and vice-versa.
 
 ## Questionable / Possible Ponzi Schemes
 

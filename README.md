@@ -10,11 +10,19 @@ This repository is an attempt at list of *web3 revenue primitives*, created by, 
 
 [Notes from Business Models Ring at Eth Magicians, the first session which convened on 2018/10/29, are here](https://hackmd.io/W11KX6Y9R3idXXhN2tHFzA).
 
+
+More discussions about business models have been taken at ETH Denver 2019.
+
+[Notes from Business Models Ring at Eth Magicians, at ETH Denver on 2019/2/14, are here](https://hackmd.io/N_nZMiA5S5Gtp18gYT14FA).
+
 ## TOC
 
 - [Web 3 Revenue Primitives](#web-3-revenue-primitives)
   * [TOC](#toc)
-  * [Marketplace Percentage Fee](#marketplace-percentage-fee)
+  * [Revenue Share](#revenue-share)
+    * [Percentage Fee](#percentage-fee)
+    * [Income Share](#income-share)
+    * [Government taxes](#government-taxes)
   * [ICOS](#icos)
   * [Continous Funding Models](#continous-funding-models)
   * [Streaming Money](#streaming-money)
@@ -56,11 +64,40 @@ This repository is an attempt at list of *web3 revenue primitives*, created by, 
       - [Data Model](#data-model)
 - [What did we miss?](#what-did-we-miss-)
 
+## Revenue Share 
 
+The Revenue share uses profits to enable separate actors to develop efficiencies or innovate in mutually beneficial ways such as spliting earnings. It has become a popular tool within corporate governance to promote partnerships, increase sales or share costs.
 
-## Marketplace Percentage Fee
+Some popular revenue share examples:
 
-This model is where you take a % of each trsanction on your platform.  It is popular with exchanges.
+* [Percentage Fee](#percentage-fee)
+* [Income Share](#income-share)
+* [Government taxes](#government-taxes)
+
+### Percentage Fee
+
+This model is where you take a % of each trasanction done on your platform. It is popular with exchanges and marketplaces.
+
+Usually who pays for the % is the seller, since he is the one that gets the benefit of getting a sale done thanks to the connectiong provided by the platform. An offline example would be a supermarket.
+
+Notable examples:
+
+  * [Open Sea](https://opensea.io/)
+  * [Amazon](amazon.com)
+  * [Airbnb](airbnb.com)
+
+### Income Share
+
+A pool of users share earnings from another entity. An offline example would be a restaurant where the cashier shares the tips with everyone. Web 3 takes this model to a new level, for example you could give 1 dollar tip in a coffee shop and split it with every actor in the coffee value chain with a minimal cost of transaction.
+
+Some projects working with Tip Splitting:
+
+* [Meridio](https://www.meridio.co/) Divisible real estate with equity and ownership.
+* [Affogato Network](https://affogatonetwork.com/) Split tips to a barista and a coffee grower.
+
+### Government taxes
+
+A community shares earnings in order to improve everyones lifes. Corruption makes it a not working model.
 
 ## ICOS
 

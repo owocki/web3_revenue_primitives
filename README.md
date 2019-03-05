@@ -1,4 +1,4 @@
-﻿# Web 3 Revenue Primitives
+# Web 3 Revenue Primitives
 
 <img src='imgs/coins.png'>
 
@@ -43,8 +43,6 @@ This repository is an attempt at list of *web3 revenue primitives*, created by, 
   * [Examples of disruptive business / revenue models](#examples-of-disruptive-business---revenue-models)
   * [New revenue models](#new-revenue-models)
 - [Web2 Revenue Models](#web2-revenue-models)
-        * [The system designed by which a business monitizes its services](#the-system-designed-by-which-a-business-monitizes-its-services)
-          + [These categories are not mutually exclusive. Many web/mobile services use multiple revenue models. Freemium for example is a combination of advertising & subscription.](#these-categories-are-not-mutually-exclusive-many-web-mobile-services-use-multiple-revenue-models-freemium-for-example-is-a-combination-of-advertising---subscription)
   * [Examples](#examples)
       - [Advertising Model](#advertising-model)
       - [Commerce Model](#commerce-model)
@@ -300,7 +298,8 @@ How can decentralized platforms up-end the revenue models for businesses that se
 For example, payments, which has been based on utility fees.
 
 # Web2 Revenue Models
-##### The system designed by which a business monitizes its services
+
+ The system designed by which a business monitizes its services
 ---
 *"The ideal revenue model will be one that improves the user experience, or at least in no way harms it."*
 
@@ -317,7 +316,7 @@ For example, payments, which has been based on utility fees.
 | Mobile                 | Not a revenue model but presents unique challenges and opportunities for monetization | [itunes app store](https://itunes.apple.com/us/genre/ios/id36?mt=8) |
 | Gaming                 | Not a revenue model but presents unique challenges and opportunities for monetization | [steam](https://store.steampowered.com) |
 
-###### These categories are not mutually exclusive. Many web/mobile services use multiple revenue models. Freemium for example is a combination of advertising & subscription.
+These categories are not mutually exclusive. Many web/mobile services use multiple revenue models. Freemium for example is a combination of advertising & subscription.
 ---
 ## Examples
 

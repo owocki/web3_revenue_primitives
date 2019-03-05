@@ -211,6 +211,42 @@ TODO - What else should live here?
 
 * [Determining a fair rent model of ENS](https://discuss.ens.domains/t/determining-a-fair-rent-model/603) = NOTE: At ENS, the purpose of the rent is to avoid squatters rather than making profit
 
+# Revenue Models
+
+This breaks down business revenue models into 8 types and provides examples of each. In addition, we reference Ben Wenmuller’s series of tweets with a potentially new business model for decentralized platforms - capital gains.
+
+## 8(+1) types of revenue models
+
+||Description|Examples|
+|--- |--- |--- |
+|Unit sales|Sell a product or service to customers|Daily necessities at local market|
+|Advertising fees|Sell others opportunities to distribute their message on your space.|Billboards, banner ads, search engine ads|
+|Franchise fees|Sell the right for others to invest and manage a version of your business.|Fast food restaurants, e-sports leagues|
+|Utility fees|Sell goods and services on a metered basis.|Road tolls, electricity and water bills|
+|Subscription fees|Charge a fixed price for access to services for a set period of time.|Video and music streaming, gym memberships|
+|Transaction fees|Charge a fee for referring, enabling, or executing a transaction between parties.|Credit card merchant fees, online stock trades|
+|Professional fees|Provide professional services on a time-and-materials contract.|Lawyers, accountants, real estate agents|
+|License fees|Sell the rights to use intellectual property.|Physical toys based on movie characters|
+|Capital gains*|Rises in asset value (i.e. tokens) will benefit both the decentralized platform and its users/hodlers|Decentralized startups|
+
+
+[*As proposed by Ben Werdmuller’s tweets.](https://twitter.com/benwerd/status/1060209690808745985)
+
+## Why is this important?
+A company’s revenue model, very simply, is the way it makes money. New applications of revenue models against traditional revenue models can create disruptive new businesses.
+
+## Examples of disruptive business / revenue models
+Video Entertainment
+
+Company A - retail stores, charge per rental (unit sales)
+
+Company B - online “DVDs-by-mail”, monthly fee (subscription)
+
+## New revenue models
+How can decentralized platforms up-end the revenue models for businesses that seem to have their revenue model locked in?
+
+For example, payments, which has been based on utility fees.
+
 # Web2 Revenue Models
 ##### The system designed by which a business monitizes its services
 ---

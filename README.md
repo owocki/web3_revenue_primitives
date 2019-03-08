@@ -402,6 +402,45 @@ These categories are not mutually exclusive. Many web/mobile services use multip
 * Search data - [Google](https://google.com)
 * Benchmarking services – [Comscore](https://comscore.com)
 
+# Open-source business models
+Open-source business models enable projects and organizations to collaboratively build software made freely available for redistribution or modification, while still being profitable ventures.
+
+A few examples of tried and true open-source business models, summarized from Eric S. Raymond's [Magic Cauldron](https://blog.licensezero.com/2018/10/17/mapping-models.html) include:
+
+* *Loss-Leader/Market Positioner*, example Mozilla, from Netscape developed to prevent Microsoft from dominating the web browser market.
+* *Widget Frosting*, example Darwin, developed open-source to promote driver-support and reduce interface-tool development cost.
+* *Give Away the Recipe, Open A Restaurant*, examples Cygnus and RedHat, which offer professional services and support for their open-source offerings.
+* *Free the Software, Sell the Brand*, example Star Office, now OpenOffice.org. Many frequent contributors and platform developers run their own LibreOffice certification businesses to fund platform development.
+* *Free the Software, Sell the Content*, for any intangible media businesses.
+* *Free the Future, Sell the Present*, example Ghostscript, with older-versions being offered open-source, and newer-version sales driving business revenues.
+
+## Free the Future, Sell the Present
+Of the functioning business models above, one of the models is unlike the others: *Free the Future, Sell the Present*. Focused around being a value-added selling proposition, such business models focus on the value of the software being sold. As [License Zero](https://blog.licensezero.com/2018/10/17/mapping-models.html) put it best:
+
+> The value they sell is the value of the software, and the software is open.
+
+In a simple way, this license builds upon two concepts: *Dual Licensing* and *Delayed Release*:
+
+1. Dual Licensing is the concept where individuals are open to develop on older source, but, they can pay to easily ship the latest-and-greatest version, without making the rest of their systems open to competitors.
+2. Delayed Release is the concept that allows closed-software to be released as open source on a schedule. Before the release date, the license gives permission for non-production use only. On the scheduled release date, the license’s terms automatically transform into those of a standard open source license.
+
+## What do users need to benefit from software?
+Another aspect to consider when choosing a business model is to consider the needs of the user. A generalization is:
+
+* *Implementation*: Users can't run software that doesn't exist.
+* *Distribution*: Users can't run software someone else wrote, but didn't share.
+* *Permission*: Users can't safely run software without a license.
+
+From a users point of view, developers can choose to meet these requirements partially or completely:
+
+> They can implement what one customer needs or wants, but not what another does. They can distribute copies to some users, but not to others. They can grant permission for the software to everyone, or only to specific customers.
+
+## Constraints
+Finally, when choosing an effective model, it's necessary to look forward to the future and consider constraints. Norms of open-source software limit developer freedom and choice, and understanding the limitations associated with open-source development is essential. For example, from a legal perspective, it's difficult to reduce the permissions of published open-source material, but, it is relatively straightforward to do the same for unpublished or proprietary content.
+
+#### *Additional information*
+For more information, [License Zero](https://blog.licensezero.com/2018/10/17/mapping-models.html)'s blog on mapping models should be referenced.
+
 # What did we miss?  
 
 Coming to Prague this October? [Join us on the business model ring at ETHMagicians 2018](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring)

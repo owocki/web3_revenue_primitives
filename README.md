@@ -257,6 +257,32 @@ Personal tokens are fixed-supply and -cost ERC20 tokens that derive their value 
 
   In the case that Matthew denies service to an individual who redeems $BOI, although the market valuation for the token may fall, Matthew has already been paid in advance for the initial purchase, thus, fulfilling his hourly rate.
 
+## Radical Markets
+
+### Constrained Capital Liberal Radicalism
+
+The funding for Liberal Radicalism is likely to come from philanthropists or some dedicated government appropriation rather than from unlimited tax revenue. Capital-constrained Liberal Radicalism (CLR) aims to answer how philanthropists can fund public goods or services optimally. Traditionally funding is likely to come from philanthropists or some dedicated government appropriation. Funding can optimally be distributed to project by making contributions proportional to the number of contributions already received by the community. This allows collective decision making by the community in funding and will benefit a public good or service based on the good it provides to the community.
+
+### Property is Monopoly
+
+Imagine a world in which all major private wealth is constantly for sale at a fair price and where most of the value of this property is paid out equally to all citizens as a social dividend. While some might believe that the wealthy would dominate such a market, the most private wealth would become shared by all. Every asset would become cheaper to own, at the same time making large scale projects to become far easier to develop. In a system called Common Ownership Self-Assessed Tax (COST), every citizen would self-assess the value of assets they possess, pay tax on these values, and be required to sell any additional assets at this price. The tax would eliminate the need for other taxes on capital and reduce income tax, at the same time providing benefits through social dividends or funding public infrastructure. COST would create a healthier relationship to property, and help the community seek to increase the value of commonwealth.
+
+### Radical Democracy
+
+Envision a world where political minorities could be protected at the ballot without having the rely on judges or compromises on sensitive issues. With the trading of influence, the minority could overwhelmingly vote out oppressive politicians while the majority will keep the candidates that represent the best direction for the country. With Quadratic Voting, every citizen receives an equal amount of credits used to vote in collective decisions. Any issue can be voted on individually with these credits. The cost of a vote must be quadratic in the number of votes acquired, bringing an incentive to vote in proportion to the importance of the issue. This would lead to social decisions producing the greatest good for the greatest number of people.
+
+### Uniting the World's Workers
+
+The Visas between Individuals Program (VIP) gives the ability to sponsor an immigrant to citizens, while also benefiting the citizen through the sharing of gains. The program is not much different from today's world, where instead of the H1-B program trading sponsorship for gains to corporations the gains would be given to the individuals sponsoring. The migration would benefit all citizens, giving an extra stipend for hosting the migrant works and removing migration as a divisive issue in most countries. VIP would reduce the inequalities across countries, and allow the migrants to send back their earnings to their impoverished families. VIP would begin to break down the boundaries of wealthy countries and help out the poorer countries.
+
+### Dismembering the Octopus
+
+There is a possibility that, just by changing the structure of corporate ownership and antitrust regulations, wages will grow, prices will fall, and decent-paying jobs will become more available. Although the standard of living has stagnated the past 40 years, the stock markets have soared and the gap between the wealthy and poor has grown. The fundamental problem is that the antitrust laws the keep competition high have been unenforced. A simple, yet radical solution would be to limit institutional investors from investing in more than one company in each industry. This would force the promotion of competition between multiple companies in an industry. Antitrust prohibitions would also be applied to mergers, prohibiting the lowering of worker's wages to increase prices. All the is needed is for government antitrust enforcers or harmed groups of citizens to band together to defend their cause.
+
+### Data as Labor
+
+Data could be honored as an individual's work and compensated, instead of gathered by tech companies today. This change would open more well-paying jobs, and convert our passive consumers of entertainment to producers of data. With Data as Labor (DaL), we can build a fairer, more equal society, and spur the development of technology and economic growth. Data suppliers are currently not properly rewarded for contributions and lack the incentive to produce high-quality data. This wasteful model results in the dominance of large tech companies, such as Google, being able to thrive off of free user data. Awareness amount users about their data value make a large difference and empower them to demand more fair compensation. 
+
 ## Stablecoins Business Models
 
 The main component behind stablecoins capturing value in a market is seigniorage. This is profit made by issuing currency, which is generated from the difference of the face value of the currency and its production costs. The three major types of stablecoins are:

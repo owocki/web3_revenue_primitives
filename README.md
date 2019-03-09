@@ -1,3 +1,5 @@
+[Join the telegram group](https://t.me/joinchat/DwEd_xcORJOv6m7Li7yOow)
+
 THIS is a living document!  See something you don't like? [File an issue!](https://github.com/FEMBusinessModelsRing/web3_revenue_primitives/issues/new)  Got something you want to see? [File an issue](https://github.com/FEMBusinessModelsRing/web3_revenue_primitives/issues/new)!
 
 # Web 3 Revenue Primitives

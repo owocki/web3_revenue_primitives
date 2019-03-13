@@ -36,6 +36,7 @@ More discussions about business models have been taken at ETH Denver 2019.
   * [Lending](#lending)
   * [Curating](#curating)
   * [Creating](#creating)
+  * [Crypto trading strategies](#crypto-trading-strategies)
   * [Funding](#funding)
     + [Budgeting](#budgeting)
       - [Limitations of existing Open Source Budget template:](#limitations-of-existing-open-source-budget-template-)
@@ -212,6 +213,14 @@ It’s not just about creating a list. It’s about creating a list you can trus
 The creation of new things on chains will have value. Selling them to people who want them will generate hashflow. Making these unique tokens takes a lot of effort. You have to get a community of people to agree to their value.
 
 * [Cryptokitties](https://www.cryptokitties.co/)
+
+## Crypto trading strategies
+
+Not unsimilar to conventional market trading, crypto markets have their own set of strategies utilized by various traders:
+1. **Algorithmic trading** - Algorithmic trading is commonly used in crypto markets to programmatically automate trading in response to varying market data. Based on defined sets of rules (including timing, price, quantity, or even a mathematical model), this type of trading not only eliminates the factor of human sentiment when making market decisions, but it also enables 24/7 automatic trading, with limited human input, enabling instant and accurate order placement and reduced risk of manual errors.
+2. **Machine Learning-influenced trading** - Machine Learning-influenced trading is another strategy becoming more popular with improvements in AI/ML. This method involves using trade execution algorithms which use Machine Learning to analyze past trends and to factor in existing market conditions in real-time. This allows for traders to make predictions based on probabilistic analysis. 
+3. **Arbitrage** - Arbitrage encompasses the simultaneous buying and selling of an item (in this case, crypto) across different markets in order to take advantage of different prices for the same asset. It is commonly exercised by crypto traders on exchanges, by purchasing crypto at a lower price than what it sells for on competitor exchanges, thus netting them a profit for equalizing the market price.
+
 
 ## Funding
 

@@ -26,7 +26,7 @@ More discussions about business models have been taken at ETH Denver 2019.
     * [Income Share](#income-share)
     * [Government taxes](#government-taxes)
   * [ICOS](#icos)
-  * [Continous Funding Models](#continous-funding-models)
+  * [Continuous Funding Models](#continuous-funding-models)
   * [Streaming Money](#streaming-money)
     + [Side Channels:](#side-channels-)
     + [State Channels:](#state-channels-)
@@ -128,12 +128,32 @@ Types of tokens:
 * [Reward Token](https://bitcoinexchangeguide.com/rewards-token-ico/)
 * [Asset Token](https://medium.com/pecunio/the-rise-of-asset-backed-tokens-90570438261c)
 
-## Continous Funding Models
+## Continuous Funding Models
 
-Sell a bunch of ERC20 tokens *over time*.
+Continuous Funding Models are business models that sell ERC20 tokens *over time*, rather than all at once.
+
+* [Curved Bonding](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
+
+  Curved Bonding is a method of continuous funding that incentivizes early investment. In contrast to conventional ERC20 token sales and ICO's, which feature each individual token being sold for the same price (no matter the time of purchase), such models hardcode buy price according to an algorithmic curve. In doing so, by purchasing early, investors get more tokens for the same price, than if they had purchased later. Thus, using Curved Bonding incentivizes early adopters to invest in a token.
 
 * [Continuous Organizations](https://medium.com/@thibauld/introducing-continuous-organizations-22ad9d1f63b7?_branch_match_id=578515516036471346)
-* [Curved Bonding](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
+
+  A continuous organization is one that sets up a *Decentralized Autonomous Trust* (DAT): an immutable smart-contract that implements curve bonding to automatically mint, burn, and distribute security tokens called FAIR *securities*. Organizations provide value to the trust by channeling part or all of their cash flow to it:
+  1. When an investor **buys** FAIR, new FAIR tokens are minted by the trust, thus, increasing the price of the existing FAIR tokens. Part of the money invested goes to the organization, and part is held by the trust in its *buy-back-reserve*.
+  2. When an investor **sells** FAIR, the FAIR tokens sold are burned by the trust, which decreases the price of FAIR tokens. The trust refunds the investor with funds in its *buy-back-reserve*.
+  3. When the trust receives a **payment**, a fraction of the payment is used to mint new FAIR tokens which: (1) increases the price of existing FAIR tokens, and (2) increases the trusts *buy-back-reserve*. The rest of the money goes to the organization.
+  4. When the trust receives a **dividend** payment from the organization, the dividend is used to mint and issue new FAIR tokens to current FAIR token holders, thus, increasing both the price of the token and the *buy-back-reserve*.
+
+  In a simpler manner, a *Decentralized Autonomous Trust* allows an organization to: 
+  
+  1. Continuously mint tokens whenever demand exceeds supply, thus, providing ongoing funding for the organization.
+  2. Guarantee that an investor will always be able to buy or sell their FAIR tokens (albeit, not at the price they want) no matter if the token is listed publically or not, due to the *buy-back-reserve*.
+  3. Promote long term investment through the continual minting and dispersion of FAIR tokens upon dividend payments.
+
+  **Note:** Such a business model is regarded as a security token offering and, as such, must comply with the security laws of its jurisdiction.
+
+  For additional information, refer to the [white paper](https://github.com/C-ORG/whitepaper/).
+
 
 ## Streaming Money
 

@@ -147,7 +147,7 @@ Continuous Funding Models are business models that sell ERC20 tokens *over time*
   In a simpler manner, a *Decentralized Autonomous Trust* allows an organization to: 
   
   1. Continuously mint tokens whenever demand exceeds supply, thus, providing ongoing funding for the organization.
-  2. Guarantee that an investor will always be able to buy or sell their FAIR tokens (albeit, not at the price they want) no matter if the token is listed publically or not, due to the *buy-back-reserve*.
+  2. Guarantee that an investor will always be able to buy or sell their FAIR tokens (albeit, not at the price they want) no matter if the token is listed publicly or not, due to the *buy-back-reserve*.
   3. Promote long term investment through the continual minting and dispersion of FAIR tokens upon dividend payments.
 
   **Note:** Such a business model is regarded as a security token offering and, as such, must comply with the security laws of its jurisdiction.

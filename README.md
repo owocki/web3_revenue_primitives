@@ -348,6 +348,69 @@ TODO - What else should live here?
 
 * [Determining a fair rent model of ENS](https://discuss.ens.domains/t/determining-a-fair-rent-model/603) = NOTE: At ENS, the purpose of the rent is to avoid squatters rather than making profit
 
+
+## Exchange Business Models
+
+### Fees
+
+The main model that exchanges use to generate revenue is through trading fees. An exchange will take x% fee on a per trade basis, creating income by providing a service. What differentiates exchanges is how those fees are taken. Fees can be taken through the form of a utility token, a percentage of the token you are trading, or out of a balance you carry. The fees for the top exchanges are found below.
+
+| Exchange  | Maker  | Taker | 
+| --- | --- | --- |
+| Binance   | 0.1%   | 0.1% | 
+| Bit-Z     | 0.08%  | 0.12% | 
+| ZB        | 0.2%   | 0.2% | 
+| LBank     | 0.1%   | 0.1% | 
+| Upbit     | 0.25%  | 0.25% | 
+
+Exchanges take fees on all withdrawals as well. Under normal conditions, there is a 0% deposit fee and x% withdrawal fee. This incentivizes customers to deposit cryptocurrency into their exchange and start trading, bringing more users to the platform. Withdrawal fees incentivize the user to stay and keep using an exchange's service, increasing the overall revenue of an exchange. 
+
+The general business model for an exchange:
+
+Bring in users -> Provide a service for fees -> Incentivize users to stay on the platform
+
+### Utility Token
+
+The current largest exchange, Binance, was the frontrunner of including a utility token into their business model. Binance started with a token sale and then continues to add utility to the token as it interacts with their exchange. Binance and other exchanges have added features to their token including:
+
+* Discounted usage on fees
+* Exclusive usage in token sales
+* Burn tokens equal to % of revenue
+* Voting for listing
+* New Listing Airdrops
+
+Having a utility token with perks incentivizes more customers to join the platform, creating more revenue and traffic throughout the life of the platform. 
+
+### Listing Model
+
+An exchange's listing model often contributes to the daily volume and revenue. Many exchanges require a listing fee for a new token to be brought onto their platform. Token creators will pay that fee to increase liquidity in their token, and the exchange will bring more customers to the platform listing tokens with large user bases. However, making sure that an exchange has a high-quality pool of tokens contributes to the daily volume and brand of the exchange.
+
+REPLACE WITH GRAPH Tokens / Avg Daily Volume
+
+We can see here that the number of tokens that an exchange has diminishing returns. Exchanges with higher listing policies, such as [Binance](https://www.linkedin.com/pulse/binance-listing-tips-changpeng-zhao/), have a higher return per token listed.
+
+### ICO Host
+
+Exchanges such as Binance have hosted ICO's on their platform as a model of bringing in more users. Have an ICO hosting on your platform creates an exclusivity of a token in your ecosystem, forcing customers to come to join your platform in order to retrieve that token. Binance has been employing this with multiple ICOs, [selling out on the ICOs within seconds](https://twitter.com/cz_binance/status/1100040669752549378). This business model brings a lot of users to their platform and creates higher volume with these tokens.
+
+### Referral Program
+
+Often employed by exchanges, referral programs provide a small incentive to their current user base to advertise and bring others onto the platform. Different incentives include:
+
+* Percentage of fees
+* Token reward for every user
+* Discount on fees
+
+### Business Model Success Through Bull and Bear Markets
+
+Different business models will succeed or fail in a bear or bull market. The following is a study of Binance, Kucoin, and Bitmex throughout these two markets:
+
+REPLACE WITH GRAPH Quarterly Revenue / Time
+
+REPLACE WITH GRAPH Volume / Time
+
+REPLACE WITH GRAPH Quarterly Revenue / Avg 24hr volume
+
 # Revenue Models
 
 This breaks down business revenue models into 8 types and provides examples of each. In addition, we reference Ben Wenmuller’s series of tweets with a potentially new business model for decentralized platforms - capital gains.

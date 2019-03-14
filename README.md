@@ -385,7 +385,7 @@ Having a utility token with perks incentivizes more customers to join the platfo
 
 An exchange's listing model often contributes to the daily volume and revenue. Many exchanges require a listing fee for a new token to be brought onto their platform. Token creators will pay that fee to increase liquidity in their token, and the exchange will bring more customers to the platform listing tokens with large user bases. However, making sure that an exchange has a high-quality pool of tokens contributes to the daily volume and brand of the exchange.
 
-REPLACE WITH GRAPH Tokens / Avg Daily Volume
+<img src='imgs/Volume_Over_Tokens.png'>
 
 We can see here that the number of tokens that an exchange has diminishing returns. Exchanges with higher listing policies, such as [Binance](https://www.linkedin.com/pulse/binance-listing-tips-changpeng-zhao/), have a higher return per token listed.
 
@@ -405,11 +405,13 @@ Often employed by exchanges, referral programs provide a small incentive to thei
 
 Different business models will succeed or fail in a bear or bull market. The following is a study of Binance, Kucoin, and Bitmex throughout these two markets:
 
-REPLACE WITH GRAPH Quarterly Revenue / Time
+<img src='imgs/Quarterly_Profits.png'>
 
-REPLACE WITH GRAPH Volume / Time
+Binance and Kucoin's quarterly revenue is public and verified on the blockchain due to their quarterly token burn. We can see that throughout the life of each exchange, they both took a downturn after Q2 2018, where the market changed from a bull to bear market. Both dropped significantly, but Binance is able to sustain a large amount of revenue by building an ecosystem around them. They have worked tirelessly to increase the adoption of BNB, their token, and add features of BNB to the exchange.
 
-REPLACE WITH GRAPH Quarterly Revenue / Avg 24hr volume
+<img src='imgs/Bitmex_Monthly_Volume.png'>
+
+Bitmex's Volume over both bear and bull markets shows a noticeable difference than Binance and other major exchange. Bitmex offers leverage and options in order to short or long bitcoin and other cryptocurrencies. Because of this, Bitmex has thrived in the bear market as customers have got on their platform in order to make similar gains during the previous bull market.
 
 # Revenue Models
 

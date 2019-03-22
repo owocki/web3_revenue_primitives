@@ -278,6 +278,14 @@ Personal tokens are fixed-supply and -cost ERC20 tokens that derive their value 
   The tokens are redeemed by sending them to Matthew, who in exchange for 1 $BOI token provides 1 hour of design work. By using a personal token, not only does Matthew create demand for his skillset through a fixed token supply, but he also ensures that he will receive a minimum of 0.65ETH for each hour he works, since he is the primary supplier of the token and hence, regulates its price. In addition, using a personal token ensures that even if the market price for $BOI falls, Matthew will have already been compensated at his pre-determined hourly rate for the tokens in circulation.
 
   In the case that Matthew denies service to an individual who redeems $BOI, although the market valuation for the token may fall, Matthew has already been paid in advance for the initial purchase, thus, fulfilling his hourly rate.
+  
+ * Equity based 
+ 
+ In this model people are obligating to use % from their pre-tax or post-tax revenue to buyback issued tokens. It's similar to Income Share Agreement ( implemented by Lambda School ). Because of that the marketcap of tokens is tied to person earning ability. 
+ 
+ * Debt based 
+
+It's possible to sell hours of work upfront for further redeeming ( used by DAppBoi ) - issued tokens represent debt redeemable for work directly. 
 
 ## Radical Markets
 

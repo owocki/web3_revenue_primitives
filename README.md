@@ -48,7 +48,7 @@ More discussions about business models have been taken at ETH Denver 2019.
     + [Crypto-Backed](#crypto-backed)
     + [Algorithmic](#algorithmic)
   * [Staking](#staking)
-    + []
+    + [Indirect Staking](#indirect-staking)
   * [Questionable / Possible Ponzi Schemes](#questionable---possible-ponzi-schemes)
     + [Rent](#rent)
 - [Revenue Models](#revenue-models)
@@ -149,8 +149,8 @@ Continuous Funding Models are business models that sell ERC20 tokens *over time*
   3. When the trust receives a **payment**, a fraction of the payment is used to mint new FAIR tokens which: (1) increases the price of existing FAIR tokens, and (2) increases the trusts *buy-back-reserve*. The rest of the money goes to the organization.
   4. When the trust receives a **dividend** payment from the organization, the dividend is used to mint and issue new FAIR tokens to current FAIR token holders, thus, increasing both the price of the token and the *buy-back-reserve*.
 
-  In a simpler manner, a *Decentralized Autonomous Trust* allows an organization to: 
-  
+  In a simpler manner, a *Decentralized Autonomous Trust* allows an organization to:
+
   1. Continuously mint tokens whenever demand exceeds supply, thus, providing ongoing funding for the organization.
   2. Guarantee that an investor will always be able to buy or sell their FAIR tokens (albeit, not at the price they want) no matter if the token is listed publicly or not, due to the *buy-back-reserve*.
   3. Promote long term investment through the continual minting and dispersion of FAIR tokens upon dividend payments.
@@ -283,14 +283,14 @@ Personal tokens are fixed-supply and -cost ERC20 tokens that derive their value 
   The tokens are redeemed by sending them to Matthew, who in exchange for 1 $BOI token provides 1 hour of design work. By using a personal token, not only does Matthew create demand for his skillset through a fixed token supply, but he also ensures that he will receive a minimum of 0.65ETH for each hour he works, since he is the primary supplier of the token and hence, regulates its price. In addition, using a personal token ensures that even if the market price for $BOI falls, Matthew will have already been compensated at his pre-determined hourly rate for the tokens in circulation.
 
   In the case that Matthew denies service to an individual who redeems $BOI, although the market valuation for the token may fall, Matthew has already been paid in advance for the initial purchase, thus, fulfilling his hourly rate.
-  
- * Equity based 
- 
- In this model people are obligating to use % from their pre-tax or post-tax revenue to buyback issued tokens. It's similar to Income Share Agreement ( implemented by Lambda School ). Because of that the marketcap of tokens is tied to person earning ability. 
- 
- * Debt based 
 
-It's possible to sell hours of work upfront for further redeeming ( used by DAppBoi ) - issued tokens represent debt redeemable for work directly. 
+ * Equity based
+
+ In this model people are obligating to use % from their pre-tax or post-tax revenue to buyback issued tokens. It's similar to Income Share Agreement ( implemented by Lambda School ). Because of that the marketcap of tokens is tied to person earning ability.
+
+ * Debt based
+
+It's possible to sell hours of work upfront for further redeeming ( used by DAppBoi ) - issued tokens represent debt redeemable for work directly.
 
 ## Radical Markets
 
@@ -316,7 +316,7 @@ There is a possibility that, just by changing the structure of corporate ownersh
 
 ### Data as Labor
 
-Data could be honored as an individual's work and compensated, instead of gathered by tech companies today. This change would open more well-paying jobs, and convert our passive consumers of entertainment to producers of data. With Data as Labor (DaL), we can build a fairer, more equal society, and spur the development of technology and economic growth. Data suppliers are currently not properly rewarded for contributions and lack the incentive to produce high-quality data. This wasteful model results in the dominance of large tech companies, such as Google, being able to thrive off of free user data. Awareness amount users about their data value make a large difference and empower them to demand more fair compensation. 
+Data could be honored as an individual's work and compensated, instead of gathered by tech companies today. This change would open more well-paying jobs, and convert our passive consumers of entertainment to producers of data. With Data as Labor (DaL), we can build a fairer, more equal society, and spur the development of technology and economic growth. Data suppliers are currently not properly rewarded for contributions and lack the incentive to produce high-quality data. This wasteful model results in the dominance of large tech companies, such as Google, being able to thrive off of free user data. Awareness amount users about their data value make a large difference and empower them to demand more fair compensation.
 
 ## Stablecoins Business Models
 
@@ -376,15 +376,15 @@ TODO - What else should live here?
 
 The main model that exchanges use to generate revenue is through trading fees. An exchange will take x% fee on a per trade basis, creating income by providing a service. What differentiates exchanges is how those fees are taken. Fees can be taken through the form of a utility token, a percentage of the token you are trading, or out of a balance you carry. The fees for the top exchanges are found below.
 
-| Exchange  | Maker  | Taker | 
+| Exchange  | Maker  | Taker |
 | --- | --- | --- |
-| Binance   | 0.1%   | 0.1% | 
-| Bit-Z     | 0.08%  | 0.12% | 
-| ZB        | 0.2%   | 0.2% | 
-| LBank     | 0.1%   | 0.1% | 
-| Upbit     | 0.25%  | 0.25% | 
+| Binance   | 0.1%   | 0.1% |
+| Bit-Z     | 0.08%  | 0.12% |
+| ZB        | 0.2%   | 0.2% |
+| LBank     | 0.1%   | 0.1% |
+| Upbit     | 0.25%  | 0.25% |
 
-Exchanges take fees on all withdrawals as well. Under normal conditions, there is a 0% deposit fee and x% withdrawal fee. This incentivizes customers to deposit cryptocurrency into their exchange and start trading, bringing more users to the platform. Withdrawal fees incentivize the user to stay and keep using an exchange's service, increasing the overall revenue of an exchange. 
+Exchanges take fees on all withdrawals as well. Under normal conditions, there is a 0% deposit fee and x% withdrawal fee. This incentivizes customers to deposit cryptocurrency into their exchange and start trading, bringing more users to the platform. Withdrawal fees incentivize the user to stay and keep using an exchange's service, increasing the overall revenue of an exchange.
 
 The general business model for an exchange:
 
@@ -400,7 +400,7 @@ The current largest exchange, Binance, was the frontrunner of including a utilit
 * Voting for listing
 * New Listing Airdrops
 
-Having a utility token with perks incentivizes more customers to join the platform, creating more revenue and traffic throughout the life of the platform. 
+Having a utility token with perks incentivizes more customers to join the platform, creating more revenue and traffic throughout the life of the platform.
 
 ### Listing Model
 

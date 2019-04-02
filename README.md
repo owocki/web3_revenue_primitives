@@ -45,6 +45,8 @@ More discussions about business models have been taken at ETH Denver 2019.
     + [Fiat-Backed](#fiat-backed)
     + [Crypto-Backed](#crypto-backed)
     + [Algorithmic](#algorithmic)
+  * [Staking](#staking)
+    + []
   * [Questionable / Possible Ponzi Schemes](#questionable---possible-ponzi-schemes)
     + [Rent](#rent)
 - [Revenue Models](#revenue-models)
@@ -64,9 +66,9 @@ More discussions about business models have been taken at ETH Denver 2019.
       - [Data Model](#data-model)
 - [What did we miss?](#what-did-we-miss-)
 
-## Revenue Share 
+## Revenue Share
 
-The Revenue share uses profits to enable separate actors to develop efficiencies or innovate in mutually beneficial ways such as spliting earnings. It has become a popular tool within corporate governance to promote partnerships, increase sales or share costs.
+The Revenue share uses profits to enable separate actors to develop efficiencies or innovate in mutually beneficial ways such as splitting earnings. It has become a popular tool within corporate governance to promote partnerships, increase sales or share costs.
 
 Some popular revenue share examples:
 
@@ -76,9 +78,9 @@ Some popular revenue share examples:
 
 ### Percentage Fee
 
-This model is where you take a % of each trasanction done on your platform. It is popular with exchanges and marketplaces.
+This model is where you take a % of each transaction done on your platform. It is popular with exchanges and marketplaces.
 
-Usually who pays for the % is the seller, since he is the one that gets the benefit of getting a sale done thanks to the connectiong provided by the platform. An offline example would be a supermarket.
+Usually who pays for the % is the seller, since he is the one that gets the benefit of getting a sale done thanks to the connecting provided by the platform. An offline example would be a supermarket.
 
 Notable examples:
 
@@ -97,7 +99,7 @@ Some projects working with Tip Splitting:
 
 ### Government taxes
 
-A community shares earnings in order to improve everyones lifes. Corruption makes it a not working model.
+A community shares earnings in order to improve everyones lives. Corruption makes it a not working model.
 
 ## ICOS
 
@@ -110,6 +112,7 @@ Some popular ICO models:
 * [Initial Supply Auction](https://medium.com/@MetronomeToken/metronomes-initial-supply-auction-quick-glance-price-chart-c9132595871e)
 * [Simple Agreement for Future Tokens](https://medium.com/@argongroup/explaining-the-simple-agreement-for-future-tokens-framework-15d5e7543323)
 * [Cryptocurrency Airdrop](https://en.wikipedia.org/wiki/Airdrop_(cryptocurrency))
+* [DAICOS](https://ethresear.ch/t/explanation-of-daicos/465)
 
 Some popular ICOs:
 
@@ -117,6 +120,7 @@ Some popular ICOs:
 * [Stratis](https://www.investinblockchain.com/invest-in-stratis/)
 * [Ark](https://www.investinblockchain.com/what-is-ark/)
 * [Populous](https://www.investinblockchain.com/what-is-populous/)
+* [Abyss](https://www.theabyss.com/)
 
 Types of tokens:
 
@@ -124,9 +128,10 @@ Types of tokens:
 * [Equity/Security Token](https://blockgeeks.com/guides/security-tokens/)
 * [Currency Token](https://cryptocurrencyfacts.com/what-is-a-cryptocurrency-token/)
 * [Reward Token](https://bitcoinexchangeguide.com/rewards-token-ico/)
-* [Asset Token](https://medium.com/pecunio/the-rise-of-asset-backed-tokens-90570438261c)
+* [Digitalized Asset](https://medium.com/pecunio/the-rise-of-asset-backed-tokens-90570438261c)
+* [Digital Asset Token](https://blog.coinbase.com/the-playful-paradigm-shift-4bf35d9d1d11)
 
-## Continous Funding Models
+## Continuous Funding Models
 
 Sell a bunch of ERC20 tokens *over time*.
 
@@ -213,7 +218,7 @@ The creation of new things on chains will have value. Selling them to people who
 
 ## Funding
 
-Funding is the same whether it is at the ecosystem level or at the level of a single entity wanting to support funding. Grants are the main source of funding for projects in the Ethereum Community. Grants give a short time horizon for projects and don’t take into consideration the setup costs. Once a project has been set up, maintenance requires longer-term funding than grants provided. In many cases for an individual or small team, a business model of services can be considered on a project to project basis to find long term support. Operational costs hit projects with real-world budget and cash flow problems, and decentralized projects excel when they gather together for support. 
+Funding is the same whether it is at the ecosystem level or at the level of a single entity wanting to support funding. Grants are the main source of funding for projects in the Ethereum Community. Grants give a short time horizon for projects and don’t take into consideration the setup costs. Once a project has been set up, maintenance requires longer-term funding than grants provided. In many cases for an individual or small team, a business model of services can be considered on a project to project basis to find long term support. Operational costs hit projects with real-world budget and cash flow problems, and decentralized projects excel when they gather together for support.
 
 There is no one entity in charge of Ethereum, so the community must look at different funding bodies and revenue streams. For decentralized projects, it is a good idea to have different funding for different aspects of the ecosystem, such as stack, research, or community.  Obtaining multiple entities to fund a project is part of the shared ecosystem of Ethereum. Multiple entities of funding stop the community from defunding project Y, and instead disperse funding to both project X and Y. To get funding and sustainability of a project, it is best to collaborate with others who want to support the infrastructure, rather than waste time on putting together grant systems.
 
@@ -225,9 +230,9 @@ There is no one entity in charge of Ethereum, so the community must look at diff
 Closely associated to funding, budgeting and appropriating long-term cashflow is essential for the success of Ethereum projects, teams, and individuals. With an increasing focus on long-term sustainability, it is essential to outline a fundamental budget to track funds and plan for the foreseeable future. The [Open Source Budget](https://docs.google.com/spreadsheets/d/1CqaIu4ZupDWU0IedRXQw2coJptUhhyyMTu7ep6nNmIU/edit#gid=989402327) template by Boris Mann simplifies this concept into a simple, single currency spreadsheet for tracking expenses, basic payroll, and funding sources, in order to provide an outlook into long-term financial stability.
 
 #### Limitations of existing Open Source Budget template:
-  
+
   Identified limitations of the Open Source Budget template should be taken into consideration by Ethereum projects, teams, or individuals. These include:
-  
+
   * The template assumes zero cost for an office or hardware.
   * The template does not factor in annual taxation or tax subsidization.
   * The template provides the "break-even" for a project, ignoring the potential need of a margin, or, buffer.
@@ -267,7 +272,7 @@ The main component behind stablecoins capturing value in a market is seigniorage
 
 ### Fiat-Backed
 
-A fiat-backed stablecoin system will collateralize every stablecoin issued with fiat currency or some other non-crypto asset. The fiat currency is stored with some custodian, such as a bank or major institution. 
+A fiat-backed stablecoin system will collateralize every stablecoin issued with fiat currency or some other non-crypto asset. The fiat currency is stored with some custodian, such as a bank or major institution.
 
 These stable coins can generate revenue from collecting fees on issuing/redeeming stablecoins, market-making, or short-term lending. The most popular fiat stablecoin systems today are:
 * [Tether](https://tether.to/)
@@ -289,6 +294,14 @@ A newer business model, algorithmic stablecoins adjust supply to stabilize price
 These stablecoin systems can issue shares called seigniorage shares. When there is demand for more stablecoins, more are issued to offset demand and keep price level. If demand decreases and price of stablecoins fall, shares are put up for sale in exchange for stablecoins, which are then burnt from supply. Therefore, if the market cap of stable coins reaches a certain level, the value of all seigniorage shares will be at that same level.
 
 Another revenue-generating tactic are variable interest rate deposits, where users can deposit stablecoins into smart contracts that pay out interest. When demand is low, interest rates are increased to incentivize depositing stablecoins, which lowers the circulating supply of stablecoins and price increases; and vice-versa.
+
+### Staking
+
+Staking is could be the main way to generate revenue in the future. Right now, the only use revenue-related cases are service-based staking pools like Rocket Pool. We note that there are more staking-related models that have appeared in 2019. The most common example is melding ICOs and staking together such as in NuCypher's worklock and Edgeware's lockdrop.
+
+## Indirect Staking
+
+We can extend the worklock/lockdrop model from an initial offering into a sustainable revenue primitive for proof-of-stake base-layer blockchains. A dApp built on such a blockchain would allow users to stake base-layer tokens to mine dApp tokens (or earn other forms of utility such as reputation), and then the dApp would utilize this pool of staked layer 1 tokens to earn mining rewards on the layer 1. In a proof-of-stake system where slashing occurs (e.g. slash 33%), a smart contract could enforce that the dApp needs to provide 33% of stake and "top up" 66% from users such that user funds would not be compromised. In this case, the "mining" done by dApp users provides a revenue stream to the dApp in non-zero-sum manner which is extremely sustainable.
 
 ## Questionable / Possible Ponzi Schemes
 

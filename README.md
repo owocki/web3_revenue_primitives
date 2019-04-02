@@ -1,3 +1,5 @@
+[Join the telegram group](https://t.me/joinchat/DwEd_xcORJOv6m7Li7yOow)
+
 THIS is a living document!  See something you don't like? [File an issue!](https://github.com/FEMBusinessModelsRing/web3_revenue_primitives/issues/new)  Got something you want to see? [File an issue](https://github.com/FEMBusinessModelsRing/web3_revenue_primitives/issues/new)!
 
 # Web 3 Revenue Primitives
@@ -24,7 +26,7 @@ More discussions about business models have been taken at ETH Denver 2019.
     * [Income Share](#income-share)
     * [Government taxes](#government-taxes)
   * [ICOS](#icos)
-  * [Continous Funding Models](#continous-funding-models)
+  * [Continuous Funding Models](#continuous-funding-models)
   * [Streaming Money](#streaming-money)
     + [Side Channels:](#side-channels-)
     + [State Channels:](#state-channels-)
@@ -133,10 +135,30 @@ Types of tokens:
 
 ## Continuous Funding Models
 
-Sell a bunch of ERC20 tokens *over time*.
+Continuous Funding Models are business models that sell ERC20 tokens *over time*, rather than all at once.
+
+* [Curved Bonding](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
+
+  Curved Bonding is a method of continuous funding that incentivizes early investment. In contrast to conventional ERC20 token sales and ICO's, which feature each individual token being sold for the same price (no matter the time of purchase), such models hardcode buy price according to an algorithmic curve. In doing so, by purchasing early, investors get more tokens for the same price, than if they had purchased later. Thus, using Curved Bonding incentivizes early adopters to invest in a token.
 
 * [Continuous Organizations](https://medium.com/@thibauld/introducing-continuous-organizations-22ad9d1f63b7?_branch_match_id=578515516036471346)
-* [Curved Bonding](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
+
+  A continuous organization is one that sets up a *Decentralized Autonomous Trust* (DAT): an immutable smart-contract that implements curve bonding to automatically mint, burn, and distribute security tokens called FAIR *securities*. Organizations provide value to the trust by channeling part or all of their cash flow to it:
+  1. When an investor **buys** FAIR, new FAIR tokens are minted by the trust, thus, increasing the price of the existing FAIR tokens. Part of the money invested goes to the organization, and part is held by the trust in its *buy-back-reserve*.
+  2. When an investor **sells** FAIR, the FAIR tokens sold are burned by the trust, which decreases the price of FAIR tokens. The trust refunds the investor with funds in its *buy-back-reserve*.
+  3. When the trust receives a **payment**, a fraction of the payment is used to mint new FAIR tokens which: (1) increases the price of existing FAIR tokens, and (2) increases the trusts *buy-back-reserve*. The rest of the money goes to the organization.
+  4. When the trust receives a **dividend** payment from the organization, the dividend is used to mint and issue new FAIR tokens to current FAIR token holders, thus, increasing both the price of the token and the *buy-back-reserve*.
+
+  In a simpler manner, a *Decentralized Autonomous Trust* allows an organization to: 
+  
+  1. Continuously mint tokens whenever demand exceeds supply, thus, providing ongoing funding for the organization.
+  2. Guarantee that an investor will always be able to buy or sell their FAIR tokens (albeit, not at the price they want) no matter if the token is listed publicly or not, due to the *buy-back-reserve*.
+  3. Promote long term investment through the continual minting and dispersion of FAIR tokens upon dividend payments.
+
+  **Note:** Such a business model is regarded as a security token offering and, as such, must comply with the security laws of its jurisdiction.
+
+  For additional information, refer to the [white paper](https://github.com/C-ORG/whitepaper/).
+
 
 ## Streaming Money
 
@@ -261,6 +283,40 @@ Personal tokens are fixed-supply and -cost ERC20 tokens that derive their value 
   The tokens are redeemed by sending them to Matthew, who in exchange for 1 $BOI token provides 1 hour of design work. By using a personal token, not only does Matthew create demand for his skillset through a fixed token supply, but he also ensures that he will receive a minimum of 0.65ETH for each hour he works, since he is the primary supplier of the token and hence, regulates its price. In addition, using a personal token ensures that even if the market price for $BOI falls, Matthew will have already been compensated at his pre-determined hourly rate for the tokens in circulation.
 
   In the case that Matthew denies service to an individual who redeems $BOI, although the market valuation for the token may fall, Matthew has already been paid in advance for the initial purchase, thus, fulfilling his hourly rate.
+  
+ * Equity based 
+ 
+ In this model people are obligating to use % from their pre-tax or post-tax revenue to buyback issued tokens. It's similar to Income Share Agreement ( implemented by Lambda School ). Because of that the marketcap of tokens is tied to person earning ability. 
+ 
+ * Debt based 
+
+It's possible to sell hours of work upfront for further redeeming ( used by DAppBoi ) - issued tokens represent debt redeemable for work directly. 
+
+## Radical Markets
+
+### Constrained Capital Liberal Radicalism
+
+The funding for Liberal Radicalism is likely to come from philanthropists or some dedicated government appropriation rather than from unlimited tax revenue. Capital-constrained Liberal Radicalism (CLR) aims to answer how philanthropists can fund public goods or services optimally. Traditionally funding is likely to come from philanthropists or some dedicated government appropriation. Funding can optimally be distributed to project by making contributions proportional to the number of contributions already received by the community. This allows collective decision making by the community in funding and will benefit a public good or service based on the good it provides to the community.
+
+### Property is Monopoly
+
+Imagine a world in which all major private wealth is constantly for sale at a fair price and where most of the value of this property is paid out equally to all citizens as a social dividend. While some might believe that the wealthy would dominate such a market, the most private wealth would become shared by all. Every asset would become cheaper to own, at the same time making large scale projects to become far easier to develop. In a system called Common Ownership Self-Assessed Tax (COST), every citizen would self-assess the value of assets they possess, pay tax on these values, and be required to sell any additional assets at this price. The tax would eliminate the need for other taxes on capital and reduce income tax, at the same time providing benefits through social dividends or funding public infrastructure. COST would create a healthier relationship to property, and help the community seek to increase the value of commonwealth.
+
+### Radical Democracy
+
+Envision a world where political minorities could be protected at the ballot without having the rely on judges or compromises on sensitive issues. With the trading of influence, the minority could overwhelmingly vote out oppressive politicians while the majority will keep the candidates that represent the best direction for the country. With Quadratic Voting, every citizen receives an equal amount of credits used to vote in collective decisions. Any issue can be voted on individually with these credits. The cost of a vote must be quadratic in the number of votes acquired, bringing an incentive to vote in proportion to the importance of the issue. This would lead to social decisions producing the greatest good for the greatest number of people.
+
+### Uniting the World's Workers
+
+The Visas between Individuals Program (VIP) gives the ability to sponsor an immigrant to citizens, while also benefiting the citizen through the sharing of gains. The program is not much different from today's world, where instead of the H1-B program trading sponsorship for gains to corporations the gains would be given to the individuals sponsoring. The migration would benefit all citizens, giving an extra stipend for hosting the migrant works and removing migration as a divisive issue in most countries. VIP would reduce the inequalities across countries, and allow the migrants to send back their earnings to their impoverished families. VIP would begin to break down the boundaries of wealthy countries and help out the poorer countries.
+
+### Dismembering the Octopus
+
+There is a possibility that, just by changing the structure of corporate ownership and antitrust regulations, wages will grow, prices will fall, and decent-paying jobs will become more available. Although the standard of living has stagnated the past 40 years, the stock markets have soared and the gap between the wealthy and poor has grown. The fundamental problem is that the antitrust laws the keep competition high have been unenforced. A simple, yet radical solution would be to limit institutional investors from investing in more than one company in each industry. This would force the promotion of competition between multiple companies in an industry. Antitrust prohibitions would also be applied to mergers, prohibiting the lowering of worker's wages to increase prices. All the is needed is for government antitrust enforcers or harmed groups of citizens to band together to defend their cause.
+
+### Data as Labor
+
+Data could be honored as an individual's work and compensated, instead of gathered by tech companies today. This change would open more well-paying jobs, and convert our passive consumers of entertainment to producers of data. With Data as Labor (DaL), we can build a fairer, more equal society, and spur the development of technology and economic growth. Data suppliers are currently not properly rewarded for contributions and lack the incentive to produce high-quality data. This wasteful model results in the dominance of large tech companies, such as Google, being able to thrive off of free user data. Awareness amount users about their data value make a large difference and empower them to demand more fair compensation. 
 
 ## Stablecoins Business Models
 
@@ -312,6 +368,71 @@ TODO - What else should live here?
 ### Rent
 
 * [Determining a fair rent model of ENS](https://discuss.ens.domains/t/determining-a-fair-rent-model/603) = NOTE: At ENS, the purpose of the rent is to avoid squatters rather than making profit
+
+
+## Exchange Business Models
+
+### Fees
+
+The main model that exchanges use to generate revenue is through trading fees. An exchange will take x% fee on a per trade basis, creating income by providing a service. What differentiates exchanges is how those fees are taken. Fees can be taken through the form of a utility token, a percentage of the token you are trading, or out of a balance you carry. The fees for the top exchanges are found below.
+
+| Exchange  | Maker  | Taker | 
+| --- | --- | --- |
+| Binance   | 0.1%   | 0.1% | 
+| Bit-Z     | 0.08%  | 0.12% | 
+| ZB        | 0.2%   | 0.2% | 
+| LBank     | 0.1%   | 0.1% | 
+| Upbit     | 0.25%  | 0.25% | 
+
+Exchanges take fees on all withdrawals as well. Under normal conditions, there is a 0% deposit fee and x% withdrawal fee. This incentivizes customers to deposit cryptocurrency into their exchange and start trading, bringing more users to the platform. Withdrawal fees incentivize the user to stay and keep using an exchange's service, increasing the overall revenue of an exchange. 
+
+The general business model for an exchange:
+
+Bring in users -> Provide a service for fees -> Incentivize users to stay on the platform
+
+### Utility Token
+
+The current largest exchange, Binance, was the frontrunner of including a utility token into their business model. Binance started with a token sale and then continues to add utility to the token as it interacts with their exchange. Binance and other exchanges have added features to their token including:
+
+* Discounted usage on fees
+* Exclusive usage in token sales
+* Burn tokens equal to % of revenue
+* Voting for listing
+* New Listing Airdrops
+
+Having a utility token with perks incentivizes more customers to join the platform, creating more revenue and traffic throughout the life of the platform. 
+
+### Listing Model
+
+An exchange's listing model often contributes to the daily volume and revenue. Many exchanges require a listing fee for a new token to be brought onto their platform. Token creators will pay that fee to increase liquidity in their token, and the exchange will bring more customers to the platform listing tokens with large user bases. However, making sure that an exchange has a high-quality pool of tokens contributes to the daily volume and brand of the exchange.
+
+<img src='imgs/Volume_Over_Tokens.png'>
+
+We can see here that the number of tokens that an exchange has diminishing returns. Exchanges with higher listing policies, such as [Binance](https://www.linkedin.com/pulse/binance-listing-tips-changpeng-zhao/), have a higher return per token listed.
+
+### ICO Host
+
+Exchanges such as Binance have hosted ICO's on their platform as a model of bringing in more users. Have an ICO hosting on your platform creates an exclusivity of a token in your ecosystem, forcing customers to come to join your platform in order to retrieve that token. Binance has been employing this with multiple ICOs, [selling out on the ICOs within seconds](https://twitter.com/cz_binance/status/1100040669752549378). This business model brings a lot of users to their platform and creates higher volume with these tokens.
+
+### Referral Program
+
+Often employed by exchanges, referral programs provide a small incentive to their current user base to advertise and bring others onto the platform. Different incentives include:
+
+* Percentage of fees
+* Token reward for every user
+* Discount on fees
+
+### Business Model Success Through Bull and Bear Markets
+
+Different business models will succeed or fail in a bear or bull market. The following is a study of Binance, Kucoin, and Bitmex throughout these two markets:
+
+<img src='imgs/Quarterly_Profits.png'>
+
+Binance and Kucoin's quarterly revenue is public and verified on the blockchain due to their quarterly token burn. We can see that throughout the life of each exchange, they both took a downturn after Q2 2018, where the market changed from a bull to bear market. Both dropped significantly, but Binance is able to sustain a large amount of revenue by building an ecosystem around them. They have worked tirelessly to increase the adoption of BNB, their token, and add features of BNB to the exchange.
+
+<img src='imgs/Bitmex_Monthly_Volume.png'>
+
+Bitmex's Volume over both bear and bull markets shows a noticeable difference than Binance and other major exchange. Bitmex offers leverage and options in order to short or long bitcoin and other cryptocurrencies. Because of this, Bitmex has thrived in the bear market as customers have got on their platform in order to make similar gains during the previous bull market.
 
 # Revenue Models
 

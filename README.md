@@ -36,6 +36,7 @@ More discussions about business models have been taken at ETH Denver 2019.
   * [Lending](#lending)
   * [Curating](#curating)
   * [Creating](#creating)
+  * [Gambling](#gambling)
   * [Crypto trading strategies](#crypto-trading-strategies)
   * [Funding](#funding)
     + [Budgeting](#budgeting)
@@ -238,6 +239,18 @@ It’s not just about creating a list. It’s about creating a list you can trus
 The creation of new things on chains will have value. Selling them to people who want them will generate hashflow. Making these unique tokens takes a lot of effort. You have to get a community of people to agree to their value.
 
 * [Cryptokitties](https://www.cryptokitties.co/)
+
+## Gambling
+
+Decentralized applications focused around Gambling capitalize on the fixed-state nature of smart contracts to enable betting. Common examples of these applications include:
+
+* [Ethercrash](http://ethercrash.io)
+* [Etheroll](https://etheroll.com/)
+
+Some of these applications make use of unique investment business models, where users are able to provide liquidity to the contract in exchange of dividend payments. Others offer investment tokens which allow users to stake their ETH in exchange of a percentage of returns from the house edge. Examples of these include:
+
+* [Ethercrash investment](http://ethercrash.io)
+* [Etheroll DICE tokens](https://etheroll.com/#/dice-token)
 
 ## Crypto trading strategies
 

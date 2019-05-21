@@ -48,6 +48,8 @@ More discussions about business models have been taken at ETH Denver 2019.
     + [Fiat-Backed](#fiat-backed)
     + [Crypto-Backed](#crypto-backed)
     + [Algorithmic](#algorithmic)
+  * [Staking](#staking)
+    + [Indirect Staking](#indirect-staking)
   * [Questionable / Possible Ponzi Schemes](#questionable---possible-ponzi-schemes)
     + [Rent](#rent)
 - [Revenue Models](#revenue-models)
@@ -67,9 +69,9 @@ More discussions about business models have been taken at ETH Denver 2019.
       - [Data Model](#data-model)
 - [What did we miss?](#what-did-we-miss-)
 
-## Revenue Share 
+## Revenue Share
 
-The Revenue share uses profits to enable separate actors to develop efficiencies or innovate in mutually beneficial ways such as spliting earnings. It has become a popular tool within corporate governance to promote partnerships, increase sales or share costs.
+The Revenue share uses profits to enable separate actors to develop efficiencies or innovate in mutually beneficial ways such as splitting earnings. It has become a popular tool within corporate governance to promote partnerships, increase sales or share costs.
 
 Some popular revenue share examples:
 
@@ -79,9 +81,9 @@ Some popular revenue share examples:
 
 ### Percentage Fee
 
-This model is where you take a % of each trasanction done on your platform. It is popular with exchanges and marketplaces.
+This model is where you take a % of each transaction done on your platform. It is popular with exchanges and marketplaces.
 
-Usually who pays for the % is the seller, since he is the one that gets the benefit of getting a sale done thanks to the connectiong provided by the platform. An offline example would be a supermarket.
+Usually who pays for the % is the seller, since he is the one that gets the benefit of getting a sale done thanks to the connecting provided by the platform. An offline example would be a supermarket.
 
 Notable examples:
 
@@ -100,7 +102,7 @@ Some projects working with Tip Splitting:
 
 ### Government taxes
 
-A community shares earnings in order to improve everyones lifes. Corruption makes it a not working model.
+A community shares earnings in order to improve everyones lives. Corruption makes it a not working model.
 
 ## ICOS
 
@@ -113,6 +115,7 @@ Some popular ICO models:
 * [Initial Supply Auction](https://medium.com/@MetronomeToken/metronomes-initial-supply-auction-quick-glance-price-chart-c9132595871e)
 * [Simple Agreement for Future Tokens](https://medium.com/@argongroup/explaining-the-simple-agreement-for-future-tokens-framework-15d5e7543323)
 * [Cryptocurrency Airdrop](https://en.wikipedia.org/wiki/Airdrop_(cryptocurrency))
+* [DAICOS](https://ethresear.ch/t/explanation-of-daicos/465)
 
 Some popular ICOs:
 
@@ -120,6 +123,7 @@ Some popular ICOs:
 * [Stratis](https://www.investinblockchain.com/invest-in-stratis/)
 * [Ark](https://www.investinblockchain.com/what-is-ark/)
 * [Populous](https://www.investinblockchain.com/what-is-populous/)
+* [Abyss](https://www.theabyss.com/)
 
 Types of tokens:
 
@@ -127,7 +131,8 @@ Types of tokens:
 * [Equity/Security Token](https://blockgeeks.com/guides/security-tokens/)
 * [Currency Token](https://cryptocurrencyfacts.com/what-is-a-cryptocurrency-token/)
 * [Reward Token](https://bitcoinexchangeguide.com/rewards-token-ico/)
-* [Asset Token](https://medium.com/pecunio/the-rise-of-asset-backed-tokens-90570438261c)
+* [Digitalized Asset](https://medium.com/pecunio/the-rise-of-asset-backed-tokens-90570438261c)
+* [Digital Asset Token](https://blog.coinbase.com/the-playful-paradigm-shift-4bf35d9d1d11)
 
 ## Continuous Funding Models
 
@@ -145,8 +150,8 @@ Continuous Funding Models are business models that sell ERC20 tokens *over time*
   3. When the trust receives a **payment**, a fraction of the payment is used to mint new FAIR tokens which: (1) increases the price of existing FAIR tokens, and (2) increases the trusts *buy-back-reserve*. The rest of the money goes to the organization.
   4. When the trust receives a **dividend** payment from the organization, the dividend is used to mint and issue new FAIR tokens to current FAIR token holders, thus, increasing both the price of the token and the *buy-back-reserve*.
 
-  In a simpler manner, a *Decentralized Autonomous Trust* allows an organization to: 
-  
+  In a simpler manner, a *Decentralized Autonomous Trust* allows an organization to:
+
   1. Continuously mint tokens whenever demand exceeds supply, thus, providing ongoing funding for the organization.
   2. Guarantee that an investor will always be able to buy or sell their FAIR tokens (albeit, not at the price they want) no matter if the token is listed publicly or not, due to the *buy-back-reserve*.
   3. Promote long term investment through the continual minting and dispersion of FAIR tokens upon dividend payments.
@@ -244,7 +249,7 @@ Not unsimilar to conventional market trading, crypto markets have their own set 
 
 ## Funding
 
-Funding is the same whether it is at the ecosystem level or at the level of a single entity wanting to support funding. Grants are the main source of funding for projects in the Ethereum Community. Grants give a short time horizon for projects and don’t take into consideration the setup costs. Once a project has been set up, maintenance requires longer-term funding than grants provided. In many cases for an individual or small team, a business model of services can be considered on a project to project basis to find long term support. Operational costs hit projects with real-world budget and cash flow problems, and decentralized projects excel when they gather together for support. 
+Funding is the same whether it is at the ecosystem level or at the level of a single entity wanting to support funding. Grants are the main source of funding for projects in the Ethereum Community. Grants give a short time horizon for projects and don’t take into consideration the setup costs. Once a project has been set up, maintenance requires longer-term funding than grants provided. In many cases for an individual or small team, a business model of services can be considered on a project to project basis to find long term support. Operational costs hit projects with real-world budget and cash flow problems, and decentralized projects excel when they gather together for support.
 
 There is no one entity in charge of Ethereum, so the community must look at different funding bodies and revenue streams. For decentralized projects, it is a good idea to have different funding for different aspects of the ecosystem, such as stack, research, or community.  Obtaining multiple entities to fund a project is part of the shared ecosystem of Ethereum. Multiple entities of funding stop the community from defunding project Y, and instead disperse funding to both project X and Y. To get funding and sustainability of a project, it is best to collaborate with others who want to support the infrastructure, rather than waste time on putting together grant systems.
 
@@ -256,9 +261,9 @@ There is no one entity in charge of Ethereum, so the community must look at diff
 Closely associated to funding, budgeting and appropriating long-term cashflow is essential for the success of Ethereum projects, teams, and individuals. With an increasing focus on long-term sustainability, it is essential to outline a fundamental budget to track funds and plan for the foreseeable future. The [Open Source Budget](https://docs.google.com/spreadsheets/d/1CqaIu4ZupDWU0IedRXQw2coJptUhhyyMTu7ep6nNmIU/edit#gid=989402327) template by Boris Mann simplifies this concept into a simple, single currency spreadsheet for tracking expenses, basic payroll, and funding sources, in order to provide an outlook into long-term financial stability.
 
 #### Limitations of existing Open Source Budget template:
-  
+
   Identified limitations of the Open Source Budget template should be taken into consideration by Ethereum projects, teams, or individuals. These include:
-  
+
   * The template assumes zero cost for an office or hardware.
   * The template does not factor in annual taxation or tax subsidization.
   * The template provides the "break-even" for a project, ignoring the potential need of a margin, or, buffer.
@@ -287,14 +292,14 @@ Personal tokens are fixed-supply and -cost ERC20 tokens that derive their value 
   The tokens are redeemed by sending them to Matthew, who in exchange for 1 $BOI token provides 1 hour of design work. By using a personal token, not only does Matthew create demand for his skillset through a fixed token supply, but he also ensures that he will receive a minimum of 0.65ETH for each hour he works, since he is the primary supplier of the token and hence, regulates its price. In addition, using a personal token ensures that even if the market price for $BOI falls, Matthew will have already been compensated at his pre-determined hourly rate for the tokens in circulation.
 
   In the case that Matthew denies service to an individual who redeems $BOI, although the market valuation for the token may fall, Matthew has already been paid in advance for the initial purchase, thus, fulfilling his hourly rate.
-  
- * Equity based 
- 
- In this model people are obligating to use % from their pre-tax or post-tax revenue to buyback issued tokens. It's similar to Income Share Agreement ( implemented by Lambda School ). Because of that the marketcap of tokens is tied to person earning ability. 
- 
- * Debt based 
 
-It's possible to sell hours of work upfront for further redeeming ( used by DAppBoi ) - issued tokens represent debt redeemable for work directly. 
+ * Equity based
+
+ In this model people are obligating to use % from their pre-tax or post-tax revenue to buyback issued tokens. It's similar to Income Share Agreement ( implemented by Lambda School ). Because of that the marketcap of tokens is tied to person earning ability.
+
+ * Debt based
+
+It's possible to sell hours of work upfront for further redeeming ( used by DAppBoi ) - issued tokens represent debt redeemable for work directly.
 
 ## Radical Markets
 
@@ -320,7 +325,7 @@ There is a possibility that, just by changing the structure of corporate ownersh
 
 ### Data as Labor
 
-Data could be honored as an individual's work and compensated, instead of gathered by tech companies today. This change would open more well-paying jobs, and convert our passive consumers of entertainment to producers of data. With Data as Labor (DaL), we can build a fairer, more equal society, and spur the development of technology and economic growth. Data suppliers are currently not properly rewarded for contributions and lack the incentive to produce high-quality data. This wasteful model results in the dominance of large tech companies, such as Google, being able to thrive off of free user data. Awareness amount users about their data value make a large difference and empower them to demand more fair compensation. 
+Data could be honored as an individual's work and compensated, instead of gathered by tech companies today. This change would open more well-paying jobs, and convert our passive consumers of entertainment to producers of data. With Data as Labor (DaL), we can build a fairer, more equal society, and spur the development of technology and economic growth. Data suppliers are currently not properly rewarded for contributions and lack the incentive to produce high-quality data. This wasteful model results in the dominance of large tech companies, such as Google, being able to thrive off of free user data. Awareness amount users about their data value make a large difference and empower them to demand more fair compensation.
 
 ## Stablecoins Business Models
 
@@ -332,7 +337,7 @@ The main component behind stablecoins capturing value in a market is seigniorage
 
 ### Fiat-Backed
 
-A fiat-backed stablecoin system will collateralize every stablecoin issued with fiat currency or some other non-crypto asset. The fiat currency is stored with some custodian, such as a bank or major institution. 
+A fiat-backed stablecoin system will collateralize every stablecoin issued with fiat currency or some other non-crypto asset. The fiat currency is stored with some custodian, such as a bank or major institution.
 
 These stable coins can generate revenue from collecting fees on issuing/redeeming stablecoins, market-making, or short-term lending. The most popular fiat stablecoin systems today are:
 * [Tether](https://tether.to/)
@@ -355,6 +360,14 @@ These stablecoin systems can issue shares called seigniorage shares. When there 
 
 Another revenue-generating tactic are variable interest rate deposits, where users can deposit stablecoins into smart contracts that pay out interest. When demand is low, interest rates are increased to incentivize depositing stablecoins, which lowers the circulating supply of stablecoins and price increases; and vice-versa.
 
+### Staking
+
+Staking is could be the main way to generate revenue in the future. Right now, the only use revenue-related cases are service-based staking pools like Rocket Pool. We note that there are more staking-related models that have appeared in 2019. The most common example is melding ICOs and staking together such as in NuCypher's worklock and Edgeware's lockdrop.
+
+## Indirect Staking
+
+We can extend the worklock/lockdrop model from an initial offering into a sustainable revenue primitive for proof-of-stake base-layer blockchains. A dApp built on such a blockchain would allow users to stake base-layer tokens to mine dApp tokens (or earn other forms of utility such as reputation), and then the dApp would utilize this pool of staked layer 1 tokens to earn mining rewards on the layer 1. In a proof-of-stake system where slashing occurs (e.g. slash 33%), a smart contract could enforce that the dApp needs to provide 33% of stake and "top up" 66% from users such that user funds would not be compromised. In this case, the "mining" done by dApp users provides a revenue stream to the dApp in non-zero-sum manner which is extremely sustainable.
+
 ## Questionable / Possible Ponzi Schemes
 
 TODO - What else should live here?
@@ -372,15 +385,15 @@ TODO - What else should live here?
 
 The main model that exchanges use to generate revenue is through trading fees. An exchange will take x% fee on a per trade basis, creating income by providing a service. What differentiates exchanges is how those fees are taken. Fees can be taken through the form of a utility token, a percentage of the token you are trading, or out of a balance you carry. The fees for the top exchanges are found below.
 
-| Exchange  | Maker  | Taker | 
+| Exchange  | Maker  | Taker |
 | --- | --- | --- |
-| Binance   | 0.1%   | 0.1% | 
-| Bit-Z     | 0.08%  | 0.12% | 
-| ZB        | 0.2%   | 0.2% | 
-| LBank     | 0.1%   | 0.1% | 
-| Upbit     | 0.25%  | 0.25% | 
+| Binance   | 0.1%   | 0.1% |
+| Bit-Z     | 0.08%  | 0.12% |
+| ZB        | 0.2%   | 0.2% |
+| LBank     | 0.1%   | 0.1% |
+| Upbit     | 0.25%  | 0.25% |
 
-Exchanges take fees on all withdrawals as well. Under normal conditions, there is a 0% deposit fee and x% withdrawal fee. This incentivizes customers to deposit cryptocurrency into their exchange and start trading, bringing more users to the platform. Withdrawal fees incentivize the user to stay and keep using an exchange's service, increasing the overall revenue of an exchange. 
+Exchanges take fees on all withdrawals as well. Under normal conditions, there is a 0% deposit fee and x% withdrawal fee. This incentivizes customers to deposit cryptocurrency into their exchange and start trading, bringing more users to the platform. Withdrawal fees incentivize the user to stay and keep using an exchange's service, increasing the overall revenue of an exchange.
 
 The general business model for an exchange:
 
@@ -396,7 +409,7 @@ The current largest exchange, Binance, was the frontrunner of including a utilit
 * Voting for listing
 * New Listing Airdrops
 
-Having a utility token with perks incentivizes more customers to join the platform, creating more revenue and traffic throughout the life of the platform. 
+Having a utility token with perks incentivizes more customers to join the platform, creating more revenue and traffic throughout the life of the platform.
 
 ### Listing Model
 

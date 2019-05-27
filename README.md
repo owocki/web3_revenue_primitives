@@ -245,12 +245,16 @@ The creation of new things on chains will have value. Selling them to people who
 Decentralized applications focused around Gambling capitalize on the fixed-state nature of smart contracts to enable betting. Common examples of these applications include:
 
 * [Ethercrash](http://ethercrash.io)
+
+  Ethercrash is a crash-styled gambling game. It allows users to deposit ETH (which is added to your site balance after twelve confirmations), and handles payouts through a smart contract. In terms of business models, it allows users to invest in the operation by providing contract liquidity in the form of an [ethercrash investment](http://ethercrash.io). Users can stake their ETH for a percentage of house returns.
+
 * [Etheroll](https://etheroll.com/)
 
-Some of these applications make use of unique investment business models, where users are able to provide liquidity to the contract in exchange of dividend payments. Others offer investment tokens which allow users to stake their ETH in exchange of a percentage of returns from the house edge. Examples of these include:
+  Etheroll is a dice-styled gambling game. It is completely built around a smart contract which automatically pays gamblers. After selecting a win percentage, the contract randomly determines a round ticket. If the round ticket matches your predictions, you are sent a multiple of your original deposit. If the round ticket does not match your predictions, you have lost, and you are sent back `1 wei` to signify a loss. In terms of business models, Etheroll accepts liquidity investments in the form of [Etheroll DICE tokens](https://etheroll.com/#/dice-token), which are ERC-20 tokens that provide ETH dividends to their holding accounts.
 
-* [Ethercrash investment](http://ethercrash.io)
-* [Etheroll DICE tokens](https://etheroll.com/#/dice-token)
+* [Fomo3D](https://exitscam.me)
+
+  Fomo3D gained popularity as being one of the largest Ethereum gambling DAPPs in late-2018. In a simple pot-styled game, users purchase keys, which increases the pot timer. Over time, the price to purchase a key increases as well. The profits from purchasing a key at an increased rate are dispursed amongst the previous key holders, and the individual to purchase the last key when the pot timer runs out wins the value of all the keys currently in the pot. A better, in-depth explanation of the investment system behind Fomo3D can be found [here](https://fomo3d.hostedwiki.co/pages/Fomo3D%20Explained).
 
 ## Crypto trading strategies
 

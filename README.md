@@ -635,6 +635,12 @@ Accelerants are pieces of useful and resuable infrastructure. They are commonly 
 
   The framework allows developers to quickly prototype and deploy decentralized applications. It is considered an accelerant since it reduces the conventional manual overhead of processes including, but not limited to: setting up test blockchains, deploying smart contracts for testing, building testing pipelines, synchronizing contract and transaction data, and more.
 
+* [Infura](https://infura.io/)
+
+  Infura's developer tools and API allow DAPP developers to easily connect to the Ethereum network via RPC. By providing a public Ethereum interface, multi-client backend (for resiliency), and TLS-enabled endpoints, Infura enables simple and secure connections to the blockchain. It takes less than 5 lines of code for DAPP developers to take advantage of Infura's robust network in their applications.
+  
+  Infura is considered an accelerant since it reduces the manual overhead of setting up Ethereum nodes for RPC endpoints, third party dependency for blockchain information, and the start-up time and cost when interacting with the Ethereum network. It's trusted by projects like [MetaMask](https://metamask.io/), [MyCrypto](https://mycrypto.com/), and [CryptoKitties](https://www.cryptokitties.co/) as their primary RPC provider.
+  
 # What did we miss?  
 
 Coming to Prague this October? [Join us on the business model ring at ETHMagicians 2018](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring)

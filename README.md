@@ -68,6 +68,7 @@ More discussions about business models have been taken at ETH Denver 2019.
       - [Transaction Processing Model](#transaction-processing-model)
       - [Licensing Model](#licensing-model)
       - [Data Model](#data-model)
+- [Accelerants](#accelerants)
 - [What did we miss?](#what-did-we-miss-)
 
 ## Revenue Share
@@ -250,7 +251,7 @@ Decentralized applications focused around Gambling capitalize on the fixed-state
 
 * [Etheroll](https://etheroll.com/)
 
-  Etheroll is a dice-styled gambling game. It is completely built around a smart contract which automatically pays gamblers. After selecting a win percentage, the contract randomly determines a round ticket. If the round ticket matches your predictions, you are sent a multiple of your original deposit. If the round ticket does not match your predictions, you have lost, and you are sent back `1 wei` to signify a loss. In terms of business models, Etheroll accepts liquidity investments in the form of [Etheroll DICE tokens](https://etheroll.com/#/dice-token), which are ERC-20 tokens that provide ETH dividends to their holding accounts.
+  Etheroll is a dice-styled gambling game. It is completely built around a smart contract which automatically pays gamblers. After selecting a win percentage, the contract randomly determines a round ticket. If the round ticket matches your predictions, you are sent a multiple of your original deposit. If the round ticket does not match your predictions, you have lost, and you are sent back `1 wei` to signify a loss. In terms of business models, Etheroll accepts liquidity investments in the form of [Etheroll DICE tokens](https://etheroll.com/#/dice-token), which are ERC-20 tokens that provide quarterly ETH dividends (from house profits) to their holding accounts.
 
 * [Fomo3D](https://exitscam.me)
 
@@ -601,6 +602,45 @@ Finally, when choosing an effective model, it's necessary to look forward to the
 #### *Additional information*
 For more information, [License Zero](https://blog.licensezero.com/2018/10/17/mapping-models.html)'s blog on mapping models should be referenced.
 
+# Accelerants
+Accelerants are pieces of useful and resuable infrastructure. They are commonly leveraged by users to quickly prototype their projects. Due to their extensive use, they are reliable components to use when developing new applications.
+
+### Examples of accelerants:
+
+* [Wyre](https://www.sendwyre.com/)
+
+  Wyre, founded in 2013, is a developer-first exchange that offers crypto to fiat and compliance solutions. Its most popular offerings are the [Wyre SDK](https://docs.sendwyre.com/) and [Wyre API](https://docs.sendwyre.com/docs/general), which allow developers to easily integrate a fiat onramp into their applications, in under ten lines of code.
+
+  According to a [report by Cambridge](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2019-01-ccaf-2nd-global-cryptoasset-benchmarking.pdf), there are near 35 million ID-verified crypto users. This leaves an untapped market of upwards of a billion potential users who aren't as adept with crypto. Wyre aims to resolve this by making it easy for DAPP and conventional application developers to allow users to seamlessley convert their fiat funds (in the countries where Wyre operates) to Crypto.
+
+  Wyre is a frequently used accelerant. An example of its integration is [AirSwap](https://www.airswap.io): a decentralized crypto exchange. Via Wyre, Airswap is able to offer users the ability to purchase crypto using USD, GBP, EUR, and AUD, all integrated directly into Airswaps existing interface and self-custodied wallet.
+* [Portis](https://www.portis.io/)
+
+  Portis is a JavaScript SDK for developers and online wallet that gives users a simple and secure gateway to the Ethereum network. Acting as a [Gateway as a Service](https://medium.com/@portis/portis-connecting-users-to-dapps-bea1c1d16063), Portis allows users to create wallets in their browser, use these wallets across DAPPS (without installing any extensions or third-party applications), and have complete control over their private-keys.
+
+  For developers, using the Portis SDK and [npm module](https://www.npmjs.com/package/portis) is the simplest way to integrate a secure wallet into a DAPP. With a simple `npm install portis` and `import & add portis as a Web3 Provider`, Portis automatically hooks into the standard Web3.js method calls that a DAPP already contains. Thus, Portis allows developers to easily and securely connect their users to the Ethereum network.
+* [Open Zeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
+
+  Open Zeppelin is a library for secure smart contract development. It provides tested implementations of standards like `ERC20` and `ERC721` contracts, as well as community-audited Solidity components that DAPP developers can easily integrate into their own contracts and decentralized systems.
+
+  The library is managed by [Zeppelin](https://zeppelin.solutions/), a decentralized core infrastructure and security audit firm, and contracts are audited by the community. The library is considered an accelerant due to it being a reliable component for smart contracts, built upon the core development principles of: security in depth, simple and modular code, clarity-driven naming conventions, comprehensive unit testing, pre-and-post-condition sanity checks, code consistency, and regular audits.
+* [0x Protocol](https://0x.org/)
+
+  The 0x Protocol is an open-sourced protocol allowing the peer-to-peer exchange of assets on the Ethereum blockchain. By developing a standard which enables off-chain order relaying (using the blockchain on order-settle rather than every transaction), it speeds up, and reduces the transaction fees involved with processing decentralized crypto asset exchanges. With over $750M in total volume, it is one of the most commonly used protocols when integrating asset exchanges into a DAPP or conventional application.
+
+  The protocol is used by projects like [Radar Relay](https://radarrelay.com/), [Ethfinex](https://www.ethfinex.com/), and [Veil](https://veil.co/).
+* [Truffle Framework](https://truffleframework.com/)
+
+  The Truffle Framework is a suite of open-sourced applications including the [Truffle](https://github.com/trufflesuite/truffle) smart-contract development tool, [Ganache](https://github.com/trufflesuite/ganache) personal blockchain for Ethereum development, and [Drizzle](https://github.com/trufflesuite/drizzle) front-end libraries for writing DAPPS.
+
+  The framework allows developers to quickly prototype and deploy decentralized applications. It is considered an accelerant since it reduces the conventional manual overhead of processes including, but not limited to: setting up test blockchains, deploying smart contracts for testing, building testing pipelines, synchronizing contract and transaction data, and more.
+
+* [Infura](https://infura.io/)
+
+  Infura's developer tools and API allow DAPP developers to easily connect to the Ethereum network via RPC. By providing a public Ethereum interface, multi-client backend (for resiliency), and TLS-enabled endpoints, Infura enables simple and secure connections to the blockchain. It takes less than 5 lines of code for DAPP developers to take advantage of Infura's robust network in their applications.
+  
+  Infura is considered an accelerant since it reduces the manual overhead of setting up Ethereum nodes for RPC endpoints, third party dependency for blockchain information, and the start-up time and cost when interacting with the Ethereum network. It's trusted by projects like [MetaMask](https://metamask.io/), [MyCrypto](https://mycrypto.com/), and [CryptoKitties](https://www.cryptokitties.co/) as their primary RPC provider.
+  
 # What did we miss?  
 
 Coming to Prague this October? [Join us on the business model ring at ETHMagicians 2018](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring)

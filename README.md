@@ -615,6 +615,10 @@ Accelerants are pieces of useful and resuable infrastructure. They are commonly 
 
   Wyre is a frequently used accelerant. An example of its integration is [AirSwap](https://www.airswap.io): a decentralized crypto exchange. Via Wyre, Airswap is able to offer users the ability to purchase crypto using USD, GBP, EUR, and AUD, all integrated directly into Airswaps existing interface and self-custodied wallet.
 * [Portis](https://www.portis.io/)
+
+  Portis is a JavaScript SDK for developers and online wallet that gives users a simple and secure gateway to the Ethereum network. Acting as a [Gateway as a Service](https://medium.com/@portis/portis-connecting-users-to-dapps-bea1c1d16063), Portis allows users to create wallets in their browser, use these wallets across DAPPS (without installing any extensions or third-party applications), and have complete control over their private-keys.
+
+  For developers, using the Portis SDK and [npm module](https://www.npmjs.com/package/portis) is the simplest way to integrate a secure wallet into a DAPP. With a simple `npm install portis` and `import & add portis as a Web3 Provider`, Portis automatically hooks into the standard Web3.js method calls that a DAPP already contains. Thus, Portis allows developers to easily and securely connect their users to the Ethereum network.
 * [Open Zeppelin]()
 * [0x Protocol]()
 * [Truffle Framework](https://truffleframework.com/)

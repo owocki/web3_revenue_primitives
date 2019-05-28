@@ -624,7 +624,11 @@ Accelerants are pieces of useful and resuable infrastructure. They are commonly 
   Open Zeppelin is a library for secure smart contract development. It provides tested implementations of standards like `ERC20` and `ERC721` contracts, as well as community-audited Solidity components that DAPP developers can easily integrate into their own contracts and decentralized systems.
 
   The library is managed by [Zeppelin](https://zeppelin.solutions/), a decentralized core infrastructure and security audit firm, and contracts are audited by the community. The library is considered an accelerant due to it being a reliable component for smart contracts, built upon the core development principles of: security in depth, simple and modular code, clarity-driven naming conventions, comprehensive unit testing, pre-and-post-condition sanity checks, code consistency, and regular audits.
-* [0x Protocol]()
+* [0x Protocol](https://0x.org/)
+
+  The 0x Protocol is an open-sourced protocol allowing the peer-to-peer exchange of assets on the Ethereum blockchain. By developing a standard which enables off-chain order relaying (using the blockchain on order-settle rather than every transaction), it speeds up, and reduces the transaction fees involved with processing decentralized crypto asset exchanges. With over $750M in total volume, it is one of the most commonly used protocols when integrating asset exchanges into a DAPP or conventional application.
+
+  The protocol is used by projects like [Radar Relay](https://radarrelay.com/), [Ethfinex](https://www.ethfinex.com/), and [Veil](https://veil.co/).
 * [Truffle Framework](https://truffleframework.com/)
 
 # What did we miss?  

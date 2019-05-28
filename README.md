@@ -68,6 +68,7 @@ More discussions about business models have been taken at ETH Denver 2019.
       - [Transaction Processing Model](#transaction-processing-model)
       - [Licensing Model](#licensing-model)
       - [Data Model](#data-model)
+- [Accelerants](#accelerants)
 - [What did we miss?](#what-did-we-miss-)
 
 ## Revenue Share
@@ -250,7 +251,7 @@ Decentralized applications focused around Gambling capitalize on the fixed-state
 
 * [Etheroll](https://etheroll.com/)
 
-  Etheroll is a dice-styled gambling game. It is completely built around a smart contract which automatically pays gamblers. After selecting a win percentage, the contract randomly determines a round ticket. If the round ticket matches your predictions, you are sent a multiple of your original deposit. If the round ticket does not match your predictions, you have lost, and you are sent back `1 wei` to signify a loss. In terms of business models, Etheroll accepts liquidity investments in the form of [Etheroll DICE tokens](https://etheroll.com/#/dice-token), which are ERC-20 tokens that provide ETH dividends to their holding accounts.
+  Etheroll is a dice-styled gambling game. It is completely built around a smart contract which automatically pays gamblers. After selecting a win percentage, the contract randomly determines a round ticket. If the round ticket matches your predictions, you are sent a multiple of your original deposit. If the round ticket does not match your predictions, you have lost, and you are sent back `1 wei` to signify a loss. In terms of business models, Etheroll accepts liquidity investments in the form of [Etheroll DICE tokens](https://etheroll.com/#/dice-token), which are ERC-20 tokens that provide quarterly ETH dividends (from house profits) to their holding accounts.
 
 * [Fomo3D](https://exitscam.me)
 
@@ -600,6 +601,23 @@ Finally, when choosing an effective model, it's necessary to look forward to the
 
 #### *Additional information*
 For more information, [License Zero](https://blog.licensezero.com/2018/10/17/mapping-models.html)'s blog on mapping models should be referenced.
+
+# Accelerants
+Accelerants are pieces of useful and resuable infrastructure. They are commonly leveraged by users to quickly prototype their projects. Due to their extensive use, they are reliable components to use when developing new applications.
+
+### Examples of accelerants:
+
+* [Wyre](https://www.sendwyre.com/)
+
+  Wyre, founded in 2013, is a developer-first exchange that offers crypto to fiat and compliance solutions. Its most popular offerings are the [Wyre SDK](https://docs.sendwyre.com/) and [Wyre API](https://docs.sendwyre.com/docs/general), which allow developers to easily integrate a fiat onramp into their applications, in under ten lines of code.
+
+  According to a [report by Cambridge](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2019-01-ccaf-2nd-global-cryptoasset-benchmarking.pdf), there are near 35 million ID-verified crypto users. This leaves an untapped market of upwards of a billion potential users who aren't as adept with crypto. Wyre aims to resolve this by making it easy for DAPP and conventional application developers to allow users to seamlessley convert their fiat funds (in the countries where Wyre operates) to Crypto.
+
+  Wyre is a frequently used accelerant. An example of its integration is [AirSwap](https://www.airswap.io): a decentralized crypto exchange. Via Wyre, Airswap is able to offer users the ability to purchase crypto using USD, GBP, EUR, and AUD, all integrated directly into Airswaps existing interface and self-custodied wallet.
+* [Portis](https://www.portis.io/)
+* [Open Zeppelin]()
+* [0x Protocol]()
+* [Truffle Framework](https://truffleframework.com/)
 
 # What did we miss?  
 

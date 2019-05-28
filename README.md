@@ -619,7 +619,11 @@ Accelerants are pieces of useful and resuable infrastructure. They are commonly 
   Portis is a JavaScript SDK for developers and online wallet that gives users a simple and secure gateway to the Ethereum network. Acting as a [Gateway as a Service](https://medium.com/@portis/portis-connecting-users-to-dapps-bea1c1d16063), Portis allows users to create wallets in their browser, use these wallets across DAPPS (without installing any extensions or third-party applications), and have complete control over their private-keys.
 
   For developers, using the Portis SDK and [npm module](https://www.npmjs.com/package/portis) is the simplest way to integrate a secure wallet into a DAPP. With a simple `npm install portis` and `import & add portis as a Web3 Provider`, Portis automatically hooks into the standard Web3.js method calls that a DAPP already contains. Thus, Portis allows developers to easily and securely connect their users to the Ethereum network.
-* [Open Zeppelin]()
+* [Open Zeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
+
+  Open Zeppelin is a library for secure smart contract development. It provides tested implementations of standards like `ERC20` and `ERC721` contracts, as well as community-audited Solidity components that DAPP developers can easily integrate into their own contracts and decentralized systems.
+
+  The library is managed by [Zeppelin](https://zeppelin.solutions/), a decentralized core infrastructure and security audit firm, and contracts are audited by the community. The library is considered an accelerant due to it being a reliable component for smart contracts, built upon the core development principles of: security in depth, simple and modular code, clarity-driven naming conventions, comprehensive unit testing, pre-and-post-condition sanity checks, code consistency, and regular audits.
 * [0x Protocol]()
 * [Truffle Framework](https://truffleframework.com/)
 

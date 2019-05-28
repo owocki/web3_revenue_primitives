@@ -631,6 +631,10 @@ Accelerants are pieces of useful and resuable infrastructure. They are commonly 
   The protocol is used by projects like [Radar Relay](https://radarrelay.com/), [Ethfinex](https://www.ethfinex.com/), and [Veil](https://veil.co/).
 * [Truffle Framework](https://truffleframework.com/)
 
+  The Truffle Framework is a suite of open-sourced applications including the [Truffle](https://github.com/trufflesuite/truffle) smart-contract development tool, [Ganache](https://github.com/trufflesuite/ganache) personal blockchain for Ethereum development, and [Drizzle](https://github.com/trufflesuite/drizzle) front-end libraries for writing DAPPS.
+
+  The framework allows developers to quickly prototype and deploy decentralized applications. It is considered an accelerant since it reduces the conventional manual overhead of processes including, but not limited to: setting up test blockchains, deploying smart contracts for testing, building testing pipelines, synchronizing contract and transaction data, and more.
+
 # What did we miss?  
 
 Coming to Prague this October? [Join us on the business model ring at ETHMagicians 2018](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring)

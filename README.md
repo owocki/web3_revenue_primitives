@@ -170,10 +170,14 @@ A sidechain is a separate blockchain that is attached to its parent blockchain(m
 Sidechains need their own miners. These miners can be incentivized through ‘merged mining’, whereby two separate cryptocurrencies, based on the same algorithm, are mined simultaneously.
 Here is a list of some of the Sidechain Projects:
 
-* [Plasma](http://plasma.io/)
-* [Loom](https://loomx.io/)
 * [POA](https://poa.network/)
 * [Truebit](https://truebit.io/)
+
+### Plasma Chains:
+Plasma chains are like sidechains in that users can move tokens between the plasma chain and the layer 1 blockchain. Unlike sidechains (which have their own miners and security gauruantees which are divorced from the blockchain they are bridged to), plasma inherits all of the security properties of the layer 1 blockchain that it extends. In Ethereum this is includeds data availbility, data validity, and livliness / censorship resistsance (any party can submit transactions and valid transactions are always processed).
+* [Plasma](http://plasma.io/)
+* [Plasma Group](https://plasma.group/)
+* [Loom](https://loomx.io/)
 
 ### State Channels:
 State channels are basically two-way pathways opened between two users that want to communicate with each other in the form of transactions. Here, only the final outcome needs to be included in the form of one single transaction on main chain. Other transaction's are done on off chain. Few know projects around it are:

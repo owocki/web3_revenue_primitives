@@ -162,6 +162,44 @@ Continuous Funding Models are business models that sell ERC20 tokens *over time*
 
   For additional information, refer to the [white paper](https://github.com/C-ORG/whitepaper/).
 
+## DAO Models
+
+DAOs are an emerging field of research. There are many models that are live and many new models that are being created every day. The "killer app" of DAOs is the ability to design mechanisms that align the the interests of participants in a way that is trustless and verifiable. This allows anyone anywhere to collaborate on things they care about, make decisions, and get stuff done. In addition, since the DAO itself owns the project's funds (and in the near future code, docs, and domain) the DAO can exist and be supported by a decentralized community regardless of if a founder or core team moves on to something else. 
+
+### MolochDAO
+
+MolochDAO is a well known DAO that is live on Ethereum mainnet. The purpose of MolochDAO is to support development of the Etehreum commons, particularly ETH2. Anyone can request to join the DAO, but they must offer a tribute in the form of ETH. If they are accepted into the DAO they receive a set of DAO tokens proportional to the size of their tribute. The ETH tribute is then owned by the DAO and members of the DAO vote on how to manage it. Members can submit proposals for DAO members to vote on. In the case of MolochDAO, these proposals are all related to ETH2.0 development, but the model can be used for any purpose. If members disagree with a decision made by the DAO members, they can leave at any time provided they voted no on the most recent proposal or have not voted. When a DAO member leave the organization they return their DAO tokens to the DAO, thus forfeiting their ability to vote on future proposals. In exchange they receive a percentage of the DAO's tributes relative to the amount of DAO tokens they own (for example if you had 5% of the DAO tokens you would receive 5% of the DAO's tribute funds at that time). This aligns incentives so that members want to support proposals that other members agree with, because if they don't members will leave and the DAO will have less funds to allocate. This incentive alignment ensures that a wide variety of participants can come together in a trustless manner to support a goal or cause they care about. 
+
+MolochDAO Resources:
+- [Web App](https://moloch.vc/)
+- [GitHub](https://github.com/MolochVentures/moloch)
+- [Community Docs](https://www.burrrata.ch/molochasaurus/)
+
+### 1Hive
+
+1Hive is an Aragon DAO model created to support open source communities. The main goals are to make it easy to make decisions (governance) and to make it easy to reward contributors (sustainability). Due to the composable nature of Aragon DAOs, this is a living model that will evolve over time as Aragon apps are added or upgraded. By the time you read this the 1Hive model may have changed, but this is a description of the original design.
+
+The 1Hive DAO has a dual token model: BEEs (non-fungible token for core contributors) and HONEY (fungible token to reward contributors). Both BEE tokens and HONEY tokens can be used to signal, vote, and move funds. Which apps can do this is up to the discretion of each community. The main idea here is that the core team can manage funds and important decisions in a sybil resistant manner, but the broader community can also contribute, earn tokens, and have a say in decision making. This way you can avoid an all or nothing approach that only uses permissioned membership (1 person 1 vote) or only uses coin voting (1 coin 1 vote).
+
+BEEs control the minting of BEE and HONEY tokens. At any time BEEs can choose to mint a new BEE token to add a member to the DAO. BEEs can also vote to mint more HONEY to reward community contributions and/or to create more bounties. 
+
+1Hive also features the Aragon Bounties and Allocations apps. Bounties allow the core team to create rewards for tasks on the roadmap. Allocations allow the community to allocate transferable HONEY tokens to members of the community who did cool stuff. This is similar to the GitCoin "kudos" model. The idea is to say thank you and recognize and reward contributions that don't fit neatly into the scope of bounties.
+
+1Hive Resources
+- [1hive.org](https://1hive.org/)
+- [GitHub](https://github.com/1hive/)
+
+### Cryptoeconomics.Study
+
+The Cryptoeconomics.Study DAO is similar to the 1Hive model, but with a few key differences.
+- The non-transferable core membership token is GERBIL.
+- The fungible community contributions token is CARROT. 
+- In addition to just having voting apps for core members or community contributors, there will be a voting app for core members AND community contributors. This will be accomplished via a voting app that "caps" the weight that each token has in a vote. Often times this will be 50/50, but it would be 60/40 or any other configuration. This allows the DAO to start as a more centralized model managed by a core team, and then slowly transition voting power to the community. This also ensures that incentives are aligned between DAO members and community contributors so that one group cannot unilaterally take actions without the buy-in of all parties involved.
+- Rather than having the core team set bounties, anyone who holds transferable CARROT tokens can set bounties. This drives value to the CARROT token because it can be bought and used to incentivize the community to do stuff. For example, many current open source projects have an enterprise support model where they offer the software for free, but provide custom support or forks for enterprise clients. With the Cryptoeconomics.Study DAO model anyone could purchase (or earn) CARROT and stake it to bounties requesting support from the community. Since Cryptoeconomics.Study is a course and community based around education, we anticipate new users purchasing CARROT tokens to stake to tutoring or code review requests.
+ 
+Cryptoeconomics.Study Resources
+- (cryptoeconomics.study)[https://cryptoeconomics.study/]
+- [GitHub](https://github.com/cryptoeconomics-study/)
 
 ## Streaming Money
 

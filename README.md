@@ -198,7 +198,7 @@ The Cryptoeconomics.Study DAO is similar to the 1Hive model, but with a few key 
 - Rather than having the core team set bounties, anyone who holds transferable CARROT tokens can set bounties. This drives value to the CARROT token because it can be bought and used to incentivize the community to do stuff. For example, many current open source projects have an enterprise support model where they offer the software for free, but provide custom support or forks for enterprise clients. With the Cryptoeconomics.Study DAO model anyone could purchase (or earn) CARROT and stake it to bounties requesting support from the community. Since Cryptoeconomics.Study is a course and community based around education, we anticipate new users purchasing CARROT tokens to stake to tutoring or code review requests.
  
 Cryptoeconomics.Study Resources
-- (cryptoeconomics.study)[https://cryptoeconomics.study/]
+- [Cryptoeconomics.Study](https://cryptoeconomics.study/)
 - [GitHub](https://github.com/cryptoeconomics-study/)
 
 ## Streaming Money

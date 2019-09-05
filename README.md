@@ -246,6 +246,12 @@ Subscriptions are a recurring exchange of value over time.
 * [EIP 1337](https://github.com/ethereum/EIPs/pull/1337)
 * [1337 Alliance](https://1337alliance.com)
 
+## Membership
+
+Similar to the subscription model, but without the promise of regular content. Memberships can be on off (often for early supporters) or require recurring payments (think gym membership). Members often get perks such as access to exclusive content, access to early releases of content, member only events, and special pricing discounts, and more. 
+
+* [Unlock](https://unlock-protocol.com/blog/unlock-donations/) - Unlock uses Ethereum contracts and NFTs to allow supports to get a membership token for a project they support.
+
 ## Self-Sovereign Identity
 
 Identity Standards Proposals:

@@ -563,9 +563,13 @@ Works like this:
     
 6. But the first user also things that PoolTogether will be successful, so he doesn’t.
     
-7. Hype generates about the token. Everyone wants some exposure to PoolTogether. The bonding curve takes in 500,000 Dai over the next few months, and issues 200,000 PTG tokens, now worth 2.5 Dai each.
+7. Everyone wants some exposure to PoolTogether. The bonding curve takes in 500,000 Dai over the next few months, and issues 200,000 PTG tokens, now worth 2.5 Dai each.
     
+![This is how it grows together](https://miro.medium.com/proxy/1*rvTSneINGx3IunJcdjW8Ew.jpeg)
+
 8. The 500,000 Dai issued by the bonding curve goes to the Dai Reserve, is lent in compound, and receives ~675 Dai in interest rate every week (7% interest rate). This 675 Dai goes to the winning pool of the PoolTogether Lottery, which attracts many users and ticket sales, which adds funds to the Dai Reserve as well.
+
+9. The cycle repeats.
 
 For the complete description of the model visit https://medium.com/@TrustlessState/funding-model-for-pooltogether-and-other-money-lockup-apps-86b928900efa.
 

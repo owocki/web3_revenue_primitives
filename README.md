@@ -58,6 +58,7 @@ More discussions about business models have been taken at ETH Denver 2019.
   * [Why is this important?](#why-is-this-important-)
   * [Examples of disruptive business / revenue models](#examples-of-disruptive-business---revenue-models)
   * [New revenue models](#new-revenue-models)
+      - [The PoolTogether model](#the-pooltogether-model)
 - [Web2 Revenue Models](#web2-revenue-models)
   * [Examples](#examples)
       - [Advertising Model](#advertising-model)
@@ -545,7 +546,8 @@ How can decentralized platforms up-end the revenue models for businesses that se
 
 For example, payments, which has been based on utility fees.
 
-### The PoolTogether model (tangential to unlimited growth)
+### The PoolTogether model
+#### (tangential to unlimited growth)
 
 Works like this:
 

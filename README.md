@@ -58,6 +58,7 @@ More discussions about business models have been taken at ETH Denver 2019.
   * [Why is this important?](#why-is-this-important-)
   * [Examples of disruptive business / revenue models](#examples-of-disruptive-business---revenue-models)
   * [New revenue models](#new-revenue-models)
+      - [The PoolTogether model](#the-pooltogether-model)
 - [Web2 Revenue Models](#web2-revenue-models)
   * [Examples](#examples)
       - [Advertising Model](#advertising-model)
@@ -544,6 +545,33 @@ Company B - online “DVDs-by-mail”, monthly fee (subscription)
 How can decentralized platforms up-end the revenue models for businesses that seem to have their revenue model locked in?
 
 For example, payments, which has been based on utility fees.
+
+### The PoolTogether model
+#### (tangential to unlimited growth)
+
+Works like this:
+
+1. At genesis, there are 0 Dai in the contract.
+    
+2. The contract will issue 1 PTG token for 1 Dai. The first user submits 1 Dai to the contract, and receives 1 PTG token.
+    
+3. Now, there is 1 Dai in the reserve. The new price for 1 PTG token is 1.01 Dai.
+    
+4. A second user believes very strongly that PoolTogether will be very successful, and capture a lot of Dai in its reserve. They come and purchase 1,000 PTG tokens for the cost of ~1,500 Dai (the bonding curve updates its price for total order size, as Uniswap does).
+    
+5. Because of this sale, the first user that purchase 1 PTG token at 1 Dai, can now come to the bonding curve, and submit their PTG token, and receive 1.50 Dai, for a .50 Dai profit.
+    
+6. But the first user also things that PoolTogether will be successful, so he doesn’t.
+    
+7. Everyone wants some exposure to PoolTogether. The bonding curve takes in 500,000 Dai over the next few months, and issues 200,000 PTG tokens, now worth 2.5 Dai each.
+    
+![This is how it grows together](https://miro.medium.com/proxy/1*rvTSneINGx3IunJcdjW8Ew.jpeg)
+
+8. The 500,000 Dai issued by the bonding curve goes to the Dai Reserve, is lent in compound, and receives ~675 Dai in interest rate every week (7% interest rate). This 675 Dai goes to the winning pool of the PoolTogether Lottery, which attracts many users and ticket sales, which adds funds to the Dai Reserve as well.
+
+9. The cycle repeats.
+
+For the complete description of the model visit https://medium.com/@TrustlessState/funding-model-for-pooltogether-and-other-money-lockup-apps-86b928900efa.
 
 # Web2 Revenue Models
 

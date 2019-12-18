@@ -36,6 +36,8 @@ More discussions about business models have been taken at ETH Denver 2019.
   * [Lending](#lending)
   * [Curating](#curating)
   * [Creating](#creating)
+  * [Gambling](#gambling)
+  * [Crypto trading strategies](#crypto-trading-strategies)
   * [Funding](#funding)
     + [Budgeting](#budgeting)
       - [Limitations of existing Open Source Budget template:](#limitations-of-existing-open-source-budget-template-)
@@ -56,6 +58,7 @@ More discussions about business models have been taken at ETH Denver 2019.
   * [Why is this important?](#why-is-this-important-)
   * [Examples of disruptive business / revenue models](#examples-of-disruptive-business---revenue-models)
   * [New revenue models](#new-revenue-models)
+      - [The PoolTogether model](#the-pooltogether-model)
 - [Web2 Revenue Models](#web2-revenue-models)
   * [Examples](#examples)
       - [Advertising Model](#advertising-model)
@@ -66,6 +69,7 @@ More discussions about business models have been taken at ETH Denver 2019.
       - [Transaction Processing Model](#transaction-processing-model)
       - [Licensing Model](#licensing-model)
       - [Data Model](#data-model)
+- [Accelerants](#accelerants)
 - [What did we miss?](#what-did-we-miss-)
 
 ## Revenue Share
@@ -159,6 +163,44 @@ Continuous Funding Models are business models that sell ERC20 tokens *over time*
 
   For additional information, refer to the [white paper](https://github.com/C-ORG/whitepaper/).
 
+## DAO Models
+
+DAOs are an emerging field of research. There are many models that are live and many new models that are being created every day. The "killer app" of DAOs is the ability to design mechanisms that align the the interests of participants in a way that is trustless and verifiable. This allows anyone anywhere to collaborate on things they care about, make decisions, and get stuff done. In addition, since the DAO itself owns the project's funds (and in the near future code, docs, and domain) the DAO can exist and be supported by a decentralized community regardless of if a founder or core team moves on to something else. 
+
+### MolochDAO
+
+MolochDAO is a well known DAO that is live on Ethereum mainnet. The purpose of MolochDAO is to support development of the Etehreum commons, particularly ETH2. Anyone can request to join the DAO, but they must offer a tribute in the form of ETH. If they are accepted into the DAO they receive a set of DAO tokens proportional to the size of their tribute. The ETH tribute is then owned by the DAO and members of the DAO vote on how to manage it. Members can submit proposals for DAO members to vote on. In the case of MolochDAO, these proposals are all related to ETH2.0 development, but the model can be used for any purpose. If members disagree with a decision made by the DAO members, they can leave at any time provided they voted no on the most recent proposal or have not voted. When a DAO member leave the organization they return their DAO tokens to the DAO, thus forfeiting their ability to vote on future proposals. In exchange they receive a percentage of the DAO's tributes relative to the amount of DAO tokens they own (for example if you had 5% of the DAO tokens you would receive 5% of the DAO's tribute funds at that time). This aligns incentives so that members want to support proposals that other members agree with, because if they don't members will leave and the DAO will have less funds to allocate. This incentive alignment ensures that a wide variety of participants can come together in a trustless manner to support a goal or cause they care about. 
+
+MolochDAO Resources:
+- [Web App](https://moloch.vc/)
+- [GitHub](https://github.com/MolochVentures/moloch)
+- [Community Docs](https://www.burrrata.ch/molochasaurus/)
+
+### 1Hive
+
+1Hive is an Aragon DAO model created to support open source communities. The main goals are to make it easy to make decisions (governance) and to make it easy to reward contributors (sustainability). Due to the composable nature of Aragon DAOs, this is a living model that will evolve over time as Aragon apps are added or upgraded. By the time you read this the 1Hive model may have changed, but this is a description of the original design.
+
+The 1Hive DAO has a dual token model: BEEs (non-transferable token for core contributors) and HONEY (transferable token to reward contributors). Both BEE tokens and HONEY tokens can be used to signal, vote, and move funds. Which apps can do this is up to the discretion of each community. The main idea here is that the core team can manage funds and important decisions in a sybil resistant manner, but the broader community can also contribute, earn tokens, and have a say in decision making. This way you can avoid an all or nothing approach that only uses permissioned membership (1 person 1 vote) or only uses coin voting (1 coin 1 vote).
+
+BEEs control the minting of BEE and HONEY tokens. At any time BEEs can choose to mint a new BEE token to add a member to the DAO. BEEs can also vote to mint more HONEY to reward community contributions and/or to create more bounties. 
+
+1Hive also features the Aragon Bounties and Allocations apps. Bounties allow the core team to create rewards for tasks on the roadmap. Allocations allow the community to allocate transferable HONEY tokens to members of the community who did cool stuff. This is similar to the GitCoin "kudos" model. The idea is to say thank you and recognize and reward contributions that don't fit neatly into the scope of bounties.
+
+1Hive Resources
+- [1hive.org](https://1hive.org/)
+- [GitHub](https://github.com/1hive/)
+
+### Cryptoeconomics.Study
+
+The Cryptoeconomics.Study DAO is similar to the 1Hive model, but with a few key differences.
+- The non-transferable core membership token is GERBIL.
+- The fungible community contributions token is CARROT. 
+- In addition to just having voting apps for core members or community contributors, there will be a voting app for core members AND community contributors. This will be accomplished via a voting app that "caps" the weight that each token has in a vote. Often times this will be 50/50, but it would be 60/40 or any other configuration. This allows the DAO to start as a more centralized model managed by a core team, and then slowly transition voting power to the community. This also ensures that incentives are aligned between DAO members and community contributors so that one group cannot unilaterally take actions without the buy-in of all parties involved.
+- Rather than having the core team set bounties, anyone who holds transferable CARROT tokens can set bounties. This drives value to the CARROT token because it can be bought and used to incentivize the community to do stuff. For example, many current open source projects have an enterprise support model where they offer the software for free, but provide custom support or forks for enterprise clients. With the Cryptoeconomics.Study DAO model anyone could purchase (or earn) CARROT and stake it to bounties requesting support from the community. Since Cryptoeconomics.Study is a course and community based around education, we anticipate new users purchasing CARROT tokens to stake to tutoring or code review requests.
+ 
+Cryptoeconomics.Study Resources
+- [Cryptoeconomics.Study](https://cryptoeconomics.study/)
+- [GitHub](https://github.com/cryptoeconomics-study/)
 
 ## Streaming Money
 
@@ -167,10 +209,14 @@ A sidechain is a separate blockchain that is attached to its parent blockchain(m
 Sidechains need their own miners. These miners can be incentivized through ‘merged mining’, whereby two separate cryptocurrencies, based on the same algorithm, are mined simultaneously.
 Here is a list of some of the Sidechain Projects:
 
-* [Plasma](http://plasma.io/)
-* [Loom](https://loomx.io/)
 * [POA](https://poa.network/)
 * [Truebit](https://truebit.io/)
+
+### Plasma Chains:
+Plasma chains are like sidechains in that users can move tokens between the plasma chain and the layer 1 blockchain. Unlike sidechains (which have their own miners and security gauruantees which are divorced from the blockchain they are bridged to), plasma inherits all of the security properties of the layer 1 blockchain that it extends. In Ethereum this is includeds data availbility, data validity, and livliness / censorship resistsance (any party can submit transactions and valid transactions are always processed).
+* [Plasma](http://plasma.io/)
+* [Plasma Group](https://plasma.group/)
+* [Loom](https://loomx.io/)
 
 ### State Channels:
 State channels are basically two-way pathways opened between two users that want to communicate with each other in the form of transactions. Here, only the final outcome needs to be included in the form of one single transaction on main chain. Other transaction's are done on off chain. Few know projects around it are:
@@ -200,6 +246,12 @@ Subscriptions are a recurring exchange of value over time.
 
 * [EIP 1337](https://github.com/ethereum/EIPs/pull/1337)
 * [1337 Alliance](https://1337alliance.com)
+
+## Membership
+
+Similar to the subscription model, but without the promise of regular content. Memberships can be on off (often for early supporters) or require recurring payments (think gym membership). Members often get perks such as access to exclusive content, access to early releases of content, member only events, and special pricing discounts, and more. 
+
+* [Unlock](https://unlock-protocol.com/blog/unlock-donations/) - Unlock uses Ethereum contracts and NFTs to allow supports to get a membership token for a project they support.
 
 ## Self-Sovereign Identity
 
@@ -237,6 +289,30 @@ It’s not just about creating a list. It’s about creating a list you can trus
 The creation of new things on chains will have value. Selling them to people who want them will generate hashflow. Making these unique tokens takes a lot of effort. You have to get a community of people to agree to their value.
 
 * [Cryptokitties](https://www.cryptokitties.co/)
+
+## Gambling
+
+Decentralized applications focused around Gambling capitalize on the fixed-state nature of smart contracts to enable betting. Common examples of these applications include:
+
+* [Ethercrash](http://ethercrash.io)
+
+  Ethercrash is a crash-styled gambling game. It allows users to deposit ETH (which is added to your site balance after twelve confirmations), and handles payouts through a smart contract. In terms of business models, it allows users to invest in the operation by providing contract liquidity in the form of an [ethercrash investment](http://ethercrash.io). Users can stake their ETH for a percentage of house returns.
+
+* [Etheroll](https://etheroll.com/)
+
+  Etheroll is a dice-styled gambling game. It is completely built around a smart contract which automatically pays gamblers. After selecting a win percentage, the contract randomly determines a round ticket. If the round ticket matches your predictions, you are sent a multiple of your original deposit. If the round ticket does not match your predictions, you have lost, and you are sent back `1 wei` to signify a loss. In terms of business models, Etheroll accepts liquidity investments in the form of [Etheroll DICE tokens](https://etheroll.com/#/dice-token), which are ERC-20 tokens that provide quarterly ETH dividends (from house profits) to their holding accounts.
+
+* [Fomo3D](https://exitscam.me)
+
+  Fomo3D gained popularity as being one of the largest Ethereum gambling DAPPs in late-2018. In a simple pot-styled game, users purchase keys, which increases the pot timer. Over time, the price to purchase a key increases as well. The profits from purchasing a key at an increased rate are dispursed amongst the previous key holders, and the individual to purchase the last key when the pot timer runs out wins the value of all the keys currently in the pot. A better, in-depth explanation of the investment system behind Fomo3D can be found [here](https://fomo3d.hostedwiki.co/pages/Fomo3D%20Explained).
+
+## Crypto trading strategies
+
+Not unsimilar to conventional market trading, crypto markets have their own set of strategies utilized by various traders:
+1. **Algorithmic trading** - Algorithmic trading is commonly used in crypto markets to programmatically automate trading in response to varying market data. Based on defined sets of rules (including timing, price, quantity, or even a mathematical model), this type of trading not only eliminates the factor of human sentiment when making market decisions, but also enables 24/7 automatic trading, with limited human input, enabling instant and accurate order placement with reduced risk of manual errors.
+2. **Machine Learning-influenced trading** - Machine Learning-influenced trading is another strategy becoming more popular with improvements in AI/ML. This method involves using Machine Learning to analyze past trends and factor in existing market conditions in real-time, to execute trades based on the analyzed data. This allows for traders to make better predictions through probabilistic analysis. 
+3. **Arbitrage** - Arbitrage encompasses the simultaneous buying and selling of an item (in this case, crypto) across different markets in order to take advantage of different prices for the same asset. It is commonly exercised by crypto traders on exchanges, by purchasing crypto at a lower price than what it sells for on competitor exchanges, thus, netting them a profit, while also equalizing the price spread across exchanges.
+
 
 ## Funding
 
@@ -470,6 +546,33 @@ How can decentralized platforms up-end the revenue models for businesses that se
 
 For example, payments, which has been based on utility fees.
 
+### The PoolTogether model
+#### (tangential to unlimited growth)
+
+Works like this:
+
+1. At genesis, there are 0 Dai in the contract.
+    
+2. The contract will issue 1 PTG token for 1 Dai. The first user submits 1 Dai to the contract, and receives 1 PTG token.
+    
+3. Now, there is 1 Dai in the reserve. The new price for 1 PTG token is 1.01 Dai.
+    
+4. A second user believes very strongly that PoolTogether will be very successful, and capture a lot of Dai in its reserve. They come and purchase 1,000 PTG tokens for the cost of ~1,500 Dai (the bonding curve updates its price for total order size, as Uniswap does).
+    
+5. Because of this sale, the first user that purchase 1 PTG token at 1 Dai, can now come to the bonding curve, and submit their PTG token, and receive 1.50 Dai, for a .50 Dai profit.
+    
+6. But the first user also things that PoolTogether will be successful, so he doesn’t.
+    
+7. Everyone wants some exposure to PoolTogether. The bonding curve takes in 500,000 Dai over the next few months, and issues 200,000 PTG tokens, now worth 2.5 Dai each.
+    
+![This is how it grows together](https://miro.medium.com/proxy/1*rvTSneINGx3IunJcdjW8Ew.jpeg)
+
+8. The 500,000 Dai issued by the bonding curve goes to the Dai Reserve, is lent in compound, and receives ~675 Dai in interest rate every week (7% interest rate). This 675 Dai goes to the winning pool of the PoolTogether Lottery, which attracts many users and ticket sales, which adds funds to the Dai Reserve as well.
+
+9. The cycle repeats.
+
+For the complete description of the model visit https://medium.com/@TrustlessState/funding-model-for-pooltogether-and-other-money-lockup-apps-86b928900efa.
+
 # Web2 Revenue Models
 
  The system designed by which a business monitizes its services
@@ -575,6 +678,45 @@ Finally, when choosing an effective model, it's necessary to look forward to the
 #### *Additional information*
 For more information, [License Zero](https://blog.licensezero.com/2018/10/17/mapping-models.html)'s blog on mapping models should be referenced.
 
+# Accelerants
+Accelerants are pieces of useful and resuable infrastructure. They are commonly leveraged by users to quickly prototype their projects. Due to their extensive use, they are reliable components to use when developing new applications.
+
+### Examples of accelerants:
+
+* [Wyre](https://www.sendwyre.com/)
+
+  Wyre, founded in 2013, is a developer-first exchange that offers crypto to fiat and compliance solutions. Its most popular offerings are the [Wyre SDK](https://docs.sendwyre.com/) and [Wyre API](https://docs.sendwyre.com/docs/general), which allow developers to easily integrate a fiat onramp into their applications, in under ten lines of code.
+
+  According to a [report by Cambridge](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2019-01-ccaf-2nd-global-cryptoasset-benchmarking.pdf), there are near 35 million ID-verified crypto users. This leaves an untapped market of upwards of a billion potential users who aren't as adept with crypto. Wyre aims to resolve this by making it easy for DAPP and conventional application developers to allow users to seamlessley convert their fiat funds (in the countries where Wyre operates) to Crypto.
+
+  Wyre is a frequently used accelerant. An example of its integration is [AirSwap](https://www.airswap.io): a decentralized crypto exchange. Via Wyre, Airswap is able to offer users the ability to purchase crypto using USD, GBP, EUR, and AUD, all integrated directly into Airswaps existing interface and self-custodied wallet.
+* [Portis](https://www.portis.io/)
+
+  Portis is a JavaScript SDK for developers and online wallet that gives users a simple and secure gateway to the Ethereum network. Acting as a [Gateway as a Service](https://medium.com/@portis/portis-connecting-users-to-dapps-bea1c1d16063), Portis allows users to create wallets in their browser, use these wallets across DAPPS (without installing any extensions or third-party applications), and have complete control over their private-keys.
+
+  For developers, using the Portis SDK and [npm module](https://www.npmjs.com/package/portis) is the simplest way to integrate a secure wallet into a DAPP. With a simple `npm install portis` and `import & add portis as a Web3 Provider`, Portis automatically hooks into the standard Web3.js method calls that a DAPP already contains. Thus, Portis allows developers to easily and securely connect their users to the Ethereum network.
+* [Open Zeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
+
+  Open Zeppelin is a library for secure smart contract development. It provides tested implementations of standards like `ERC20` and `ERC721` contracts, as well as community-audited Solidity components that DAPP developers can easily integrate into their own contracts and decentralized systems.
+
+  The library is managed by [Zeppelin](https://zeppelin.solutions/), a decentralized core infrastructure and security audit firm, and contracts are audited by the community. The library is considered an accelerant due to it being a reliable component for smart contracts, built upon the core development principles of: security in depth, simple and modular code, clarity-driven naming conventions, comprehensive unit testing, pre-and-post-condition sanity checks, code consistency, and regular audits.
+* [0x Protocol](https://0x.org/)
+
+  The 0x Protocol is an open-sourced protocol allowing the peer-to-peer exchange of assets on the Ethereum blockchain. By developing a standard which enables off-chain order relaying (using the blockchain on order-settle rather than every transaction), it speeds up, and reduces the transaction fees involved with processing decentralized crypto asset exchanges. With over $750M in total volume, it is one of the most commonly used protocols when integrating asset exchanges into a DAPP or conventional application.
+
+  The protocol is used by projects like [Radar Relay](https://radarrelay.com/), [Ethfinex](https://www.ethfinex.com/), and [Veil](https://veil.co/).
+* [Truffle Framework](https://truffleframework.com/)
+
+  The Truffle Framework is a suite of open-sourced applications including the [Truffle](https://github.com/trufflesuite/truffle) smart-contract development tool, [Ganache](https://github.com/trufflesuite/ganache) personal blockchain for Ethereum development, and [Drizzle](https://github.com/trufflesuite/drizzle) front-end libraries for writing DAPPS.
+
+  The framework allows developers to quickly prototype and deploy decentralized applications. It is considered an accelerant since it reduces the conventional manual overhead of processes including, but not limited to: setting up test blockchains, deploying smart contracts for testing, building testing pipelines, synchronizing contract and transaction data, and more.
+
+* [Infura](https://infura.io/)
+
+  Infura's developer tools and API allow DAPP developers to easily connect to the Ethereum network via RPC. By providing a public Ethereum interface, multi-client backend (for resiliency), and TLS-enabled endpoints, Infura enables simple and secure connections to the blockchain. It takes less than 5 lines of code for DAPP developers to take advantage of Infura's robust network in their applications.
+  
+  Infura is considered an accelerant since it reduces the manual overhead of setting up Ethereum nodes for RPC endpoints, third party dependency for blockchain information, and the start-up time and cost when interacting with the Ethereum network. It's trusted by projects like [MetaMask](https://metamask.io/), [MyCrypto](https://mycrypto.com/), and [CryptoKitties](https://www.cryptokitties.co/) as their primary RPC provider.
+  
 # What did we miss?  
 
 Coming to Prague this October? [Join us on the business model ring at ETHMagicians 2018](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg?view#8-Business-Models-Ring)

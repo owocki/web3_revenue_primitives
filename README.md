@@ -353,7 +353,7 @@ Another revenue-generating tactic are variable interest rate deposits, where use
 
 ### Staking
 
-Staking is could be the main way to generate revenue in the future. Right now, the only use revenue-related cases are service-based staking pools like Rocket Pool. We note that there are more staking-related models that have appeared in 2019. The most common example is melding ICOs and staking together such as in NuCypher's worklock and Edgeware's lockdrop.
+Staking could be a main way to generate revenue in the future. Right now, the only use revenue-related cases are service-based staking pools like Rocket Pool. Many staking-related models have appeared in 2019, of which the most common example is melding ICOs and staking together such as in NuCypher's worklock and Edgeware's lockdrop. Most notably, a [serious review of businesses staking their reserve assets](https://medium.com/@ameensol/what-you-should-know-before-putting-half-a-million-dai-in-compound-fafdb2645f77) was performed by a Spankchain.
 
 ## Indirect Staking
 
